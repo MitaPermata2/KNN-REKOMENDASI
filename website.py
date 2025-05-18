@@ -6,7 +6,8 @@ from sklearn.neighbors import NearestNeighbors
 
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here' 
+
+app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'default_secret_key')
 
 
 # 2. Fungsi Kategori Hipertensi
