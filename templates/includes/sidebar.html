@@ -1,0 +1,26 @@
+<div class="container-fluid">
+    <div class="row">
+        <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block bg-light sidebar collapse">
+            <div class="position-sticky pt-3">
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link {% if request.path == '/dashboard' %}active{% endif %}" href="{{ url_for('dashboard') }}">
+                        <span data-feather="home"></span>
+                        Dashboard
+                    </a>
+                    
+                    <a class="nav-link {% if request.path == '/rekomendasi' %}active{% endif %}" href="{{ url_for('rekomendasi') }}">
+                        <span data-feather="list"></span>
+                        Rekomendasi
+                    </a>
+                    
+                    <a class="nav-link {% if request.path == '/hasil_rekomendasi' %}active{% endif %}" href="{{ url_for('hasil_rekomendasi') }}">
+                        <span data-feather="bar-chart-2"></span>
+                        Hasil rekomendasi
+                    </a>
+                </li>
+            </ul>
+            </div>
+        </nav>
+    </div>
+</div>
