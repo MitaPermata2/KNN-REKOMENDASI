@@ -1,39 +1,37 @@
 {% extends 'index.html' %}
 {% block body %}
 <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom ">
-    <h1 class="h2">Dashboard</h1>
-    </div>
+  <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom ">
+      <h1 class="h2">Dashboard</h1>
+  </div>
     <div class="text-center mb-4">
       <h6 style="font-size: 16px;">
         Tingkatan Hipertensi dan hubungannya dengan batasan asupan natrium
       </h6>
-      </div>
-      <div class="table-responsive" >
-        <table class="table table-bordered align-middle" style="justify-content: center; text-align: center;">
-          <thead class=" table-light text-center">
-            <tr>
-              <th scope="col">Tingkatan</th>
-              <th scope="col">Keterangan</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Derajat 1</td>
-              <td>Tekanan darah sistolik &gt;140 mmHg batasan maksimum natrium 1000 - 1200 mg/hari</td>
-            <tr>
-              <td>Derajat 2</td>
-              <td>Tekanan darah sistolik &gt;160 mmHg batasan maksimum natrium 600 - 800 mg/hari</td>
-            </tr>
-            <tr>
-              <td>Derajat 3</td>
-              <td>Tekanan darah sistolik &gt;180 mmHg batasan maksimum natrium 200 - 400 mg/hari</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    
-      </main>
-    <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
+    </div>
+    <div class="table-responsive" >
+      <table class="table table-bordered align-middle" style="justify-content: center; text-align: center;">
+        <thead class=" table-light text-center">
+          <tr>
+            <th scope="col">Tingkatan</th>
+            <th scope="col">Keterangan</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Derajat 1</td>
+            <td>Tekanan darah sistolik &gt;140 mmHg batasan maksimum natrium 1000 - 1200 mg/hari</td>
+          <tr>
+            <td>Derajat 2</td>
+            <td>Tekanan darah sistolik &gt;160 mmHg batasan maksimum natrium 600 - 800 mg/hari</td>
+          </tr>
+          <tr>
+            <td>Derajat 3</td>
+            <td>Tekanan darah sistolik &gt;180 mmHg batasan maksimum natrium 200 - 400 mg/hari</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 </main>
+    <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
 {% endblock %}

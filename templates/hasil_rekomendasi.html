@@ -15,20 +15,16 @@
     
         <div class="shadow-sm p-4 mb-5 bg-body rounded-4 " style=" border-radius: 10px">
                 <h4 class="mb-4 text-center">Hasil Rekomendasi Makanan</h4>
-
                 {% if error %}
                   <div class="alert alert-danger">{{error}}</div> 
                 {% endif %}
-
-                {% if show_result %}
+                  {% if show_result %}
                   <div style="margin-bottom: 30px;" >
                     <h7 class="mb-1">Kategori Tekanan Darah: {{ kategori }}</h7>
                     <p class="mb-0">Batas Konsumsi Natrium: {{ batas_natrium }} mg/hari</p>
                     <p class="mb-0">Perkiraan dalam sendok teh: {{ batas_sdt[0] }} - {{ batas_sdt[1] }} sendok teh</p>
                     <p><strong>Perkiraan praktis:</strong> {{ takaran_praktis }}</p>
-
                   </div>
-               
                     {% if hasil %}
                       <div class="table-responsive" style="min-width: 100%;">
                           <table class="table table-primary table-striped" style="width: 100%; margin-top: 20px;">
@@ -59,13 +55,13 @@
                           </table>
                       </div>
                     {% else %}
-                    {% endif %}
+                  {% endif %}
                 {% else %}
                     <div class="text-center text-muted">
                       <p>Belum ada hasil yang ditampilkan.</p>
                       <p>Silakan lakukan pencarian terlebih dahulu di menu <a href="{{ url_for('rekomendasi') }}">Rekomendasi</a>.</p>
                   </div>
-              {% endif %}
+                {% endif %}
           </div>  
     <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
 </main>
