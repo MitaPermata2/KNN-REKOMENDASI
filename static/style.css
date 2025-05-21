@@ -29,6 +29,12 @@ body.allow-scroll{
     color: #fff !important;
 }
 
+main{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
 body, html {
     height: 100%;
     overflow: hidden; 
@@ -184,6 +190,7 @@ body{
       z-index: 0;
       top: 11px;
       left: 23px;
-  
 }
  
+
+

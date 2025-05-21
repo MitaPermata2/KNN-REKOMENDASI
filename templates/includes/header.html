@@ -1,11 +1,23 @@
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 
-<header class="navbar navbar-dark sticky-top bg-primary flex-wrap flex-md-nowrap p-0 shadow">
-    <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3" href="#">FdHealth</a>
-      <ul class="navbar-nav px-3">
-      <li class="nav-item text-nowrap">
+<header class="navbar navbar-dark sticky-top bg-primary flex-md-nowrap p-0 shadow">
+
+      <!-- Brand/logo -->
+      <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 text-white" href="#">FdHealth</a>
+
+        <ul class="navbar-nav px-3">
+        <li class="nav-item text-nowrap"> 
+        </li>
+        <!-- Tombol Keluar -->
+        <a class="btn btn-danger d-none d-md-block" href="{{ url_for('halaman_awal') }}">Keluar</a>
+        </ul>
+
     
-        <a class="btn btn-danger" href="{{ url_for('halaman_awal') }}">Keluar</a>
-    </li>
-</ul>
-  </header>
+        <!-- Toggler hanya muncul di mobile -->
+        <button class="btn btn-outline-light btn-sm d-md-none me-2" type="button"
+          data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu"
+          aria-controls="sidebarMenu">
+          ☰
+        </button>
+    
+</header>
