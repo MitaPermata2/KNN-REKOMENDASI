@@ -6,14 +6,12 @@
   }
 </style>
 {% endblock %}
-
 {% block body %}
-
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom ">
     <h1 class="h2">Hasil rekomendasi</h1>
     </div>
     
-        <div class="shadow-sm p-4 mb-5 bg-body rounded-4 " style=" border-radius: 10px">
+        <div class=" p-4 mb-5 bg-body rounded-4 " style=" border-radius: 10px">
                 <h4 class="mb-4 text-center">Hasil Rekomendasi Makanan</h4>
                 {% if error %}
                   <div class="alert alert-danger">{{error}}</div> 
@@ -27,7 +25,7 @@
                   </div>
                     {% if hasil %}
                       <div class="table-responsive" style="min-width: 100%;">
-                          <table class="table table-primary table-striped" style="width: 100%; margin-top: 20px;">
+                          <table class="table table-primary table-striped" >
                             <thead class="table-hover">
                               <tr>
                                 <th>Id Kombinasi</th> 
@@ -64,5 +62,4 @@
                 {% endif %}
           </div>  
     <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
-
 {% endblock %}

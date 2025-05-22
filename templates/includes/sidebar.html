@@ -1,20 +1,13 @@
-<!-- Sidebar -->
-<div class="">
-    <div class="row">
-        <nav id="sidebarMenu" class="col-md-3 col-lg-2 bg-light sidebar">
-            <div class="position-sticky pt-3">
-            <ul class="nav flex-column">
-                      <li class="nav-item">
-                            <a class="nav-link {% if '/dashboard' in request.path %}active{% endif %}" href="{{ url_for('dashboard') }}">Dashboard</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link {% if '/rekomendasi' in request.path %}active{% endif %}" href="{{ url_for('rekomendasi') }}">Rekomendasi</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link {% if '/hasil_rekomendasi' in request.path %}active{% endif %}" href="{{ url_for('hasil_rekomendasi') }}">Hasil Rekomendasi</a>
-                        </li>
-            </ul>
-            </div>
-        </nav>
-    </div>
-</div>
+
+    <ul class="nav flex-column">
+        <li class="nav-item">
+            <a class="nav-link {% if request.path == '/dashboard' %}active{% endif %}" href="/dashboard">Dashboard</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link {% if request.path == '/rekomendasi' %}active{% endif %}" href="/rekomendasi">Rekomendasi</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link {% if request.path == '/hasil_rekomendasi' %}active{% endif %}" href="/hasil_rekomendasi">Hasil Rekomendasi</a>
+        </li>
+    </ul>
+           

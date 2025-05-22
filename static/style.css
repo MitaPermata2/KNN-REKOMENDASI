@@ -128,14 +128,20 @@ body{
   color: #333;
 }
 
+.offcanvas-body .nav-link{
+  color:#333;
+}
+
 .sidebar .nav-link .feather {
   margin-right: 4px;
   color: #727272;
 }
 
-.sidebar .nav-link.active {
-  color: #2470dc;
+.nav-item .nav-link.active {
+  color: #0d6efd !important;
+  border-radius: 5px;
 }
+
 
 .sidebar .nav-link:hover .feather,
 .sidebar .nav-link.active .feather {
@@ -147,9 +153,10 @@ body{
   text-transform: uppercase;
 }
 
-  /*
-  * Navbar
-  */
+#sidebarMenu {
+  height: 100vh;
+  overflow-y: auto;
+}
 
 .navbar-brand {
   padding-top: .75rem;
@@ -169,8 +176,6 @@ body{
   border-width: 0;
   border-radius: 0;
 }
-
-
 
 .form-control-dark {
   color: #fff;

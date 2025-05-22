@@ -17,18 +17,22 @@
                     <div class="row mb-3">
                       <label for="tekanan_darah" class="col-sm-4 col-form-label">Tekanan darah (contoh: 180/110)</label>
                       <div class="col-sm-8">
-                        <input type="text" class="form-control" id="tekanan_darah" name="tekanan_darah" placeholder="180/110" required>
+                        <input type="text" class="form-control" id="tekanan_darah" name="tekanan_darah" placeholder="180/110"  required> 
                       </div>
                     </div>
                     <div class="row mb-3">
-                      <label for="makanan" class="col-sm-4 col-form-label">Makanan yang diinginkan</label>
+                      <label for="makanan" class="col-sm-4 col-form-label">Makanan yang diinginkan (contoh: ikan, udang)</label>
                       <div class="col-sm-8">
-                        <input type="text" class="form-control" id="makanan" name="makanan"  required>
+                        <input type="text" class="form-control" id="makanan" name="makanan" required>
                       </div>
                     </div>
-                    <div class=" d-grid gap-2 d-md-flex justify-content-end mt-4">
-                    <button type="submit" value="cari rekomendasi" class="btn btn-primary flex-grow-1 flex-sm-grow-0">Submit</button>
-                    <button type="reset" class="btn btn-secondary flex-grow-1 flex-sm-grow-0">Cancel</button>
+                   <div class="row justify-content-end mt-4"> <!-- gunakan row yang sama -->
+                    <div class="col-sm-8 offset-sm-4"> <!-- offset untuk sejajar dengan input -->
+                      <div class="d-grid gap-2 d-md-flex">
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                        <button type="reset" class="btn btn-secondary">Cancel</button>
+                      </div>
+                    </div>
                   </div>
                   </form>
             </div>
