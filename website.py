@@ -150,7 +150,7 @@ def hasil_rekomendasi():
             session['batas_sdt'] = (0, 0)
             return render_template('hasil_rekomendasi.html',
                                    hasil=[],
-                                   error="Terjadi kesalahan sistem",
+                                   error="Maaf tekanan darah anda tidak termasuk hipertensi",
                                    show_result=True,
                                    kategori=None,
                                    batas_natrium=None,
