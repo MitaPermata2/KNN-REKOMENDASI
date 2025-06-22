@@ -2,99 +2,69 @@ from flask import Flask, render_template, request, session, redirect, url_for
 import pandas as pd
 import numpy as np
 import os
-from sklearn.neighbors import NearestNeighbors
-
+import joblib
 
 app = Flask(__name__)
-
 app.secret_key = os.environ.get('FLASK_SECRET_KEY', 'default_secret_key')
 
+# Load model dan data
+model = joblib.load('model.pkl')
+menu_df = pd.read_csv('data_kombinasi_na.csv')
 
-# 2. Fungsi Kategori Hipertensi
-def get_kategori_natrium(tekanan_darah):
-    if isinstance(tekanan_darah, str):
-        try:
-            sistolik, diastolik = map(int, tekanan_darah.split('/'))
-        except:
-            raise ValueError("Format tekanan darah harus seperti '180/110'")
-    elif isinstance(tekanan_darah, (tuple, list)) and len(tekanan_darah) == 2:
-        sistolik, diastolik = tekanan_darah
-    else:
-        raise ValueError("Tekanan darah harus dalam format '180/110' atau tuple (sistolik, diastolik)")
-    
-    def konversi_ke_sendok_teh(rentang):
-        return round(rentang[0]/ 2000, 2), round(rentang[1] / 2000, 2)
-    
-    if 140 <= sistolik <= 159 or 90 <= diastolik <= 99:
-        batas_natrium = (1000, 1200)
-        batas_sdt = konversi_ke_sendok_teh(batas_natrium)
-        return "Hipertensi Derajat 1", batas_natrium, batas_sdt
+# Hitung total natrium jika belum tersedia
+if 'total_natrium' not in menu_df.columns:
+    menu_df['total_natrium'] = (
+        menu_df['natrium_makan_pagi'] +
+        menu_df['natrium_makan_siang'] +
+        menu_df['natrium_makan_malam'] +
+        menu_df['natrium_snack_1'] +
+        menu_df['natrium_snack_2']
+    )
+
+def derajat_dari_tekanan_darah(sistolik, diastolik):
+    if sistolik >= 180 or diastolik >= 120:
+        return 3
     elif 160 <= sistolik <= 179 or 100 <= diastolik <= 109:
-        batas_natrium = (600, 800)
-        batas_sdt = konversi_ke_sendok_teh(batas_natrium)
-        return "Hipertensi Derajat 2", batas_natrium, batas_sdt
-    elif sistolik >= 180 or diastolik >= 110:
-        batas_natrium = (200, 400)
-        batas_sdt = konversi_ke_sendok_teh(batas_natrium)
-        return "Hipertensi Derajat 3", batas_natrium, batas_sdt
+        return 2
+    elif 140 <= sistolik <= 159 or 90 <= diastolik <= 99:
+        return 1
     else:
-        raise ValueError("Tekanan darah tidak sesuai dengan kategori hipertensi.")
-    
+        return 0
+
+def hitung_total_natrium(makanan):
+    total = 0
+    for waktu_makan in ['makan_pagi', 'makan_siang', 'makan_malam', 'snack_1', 'snack_2']:
+        nama = makanan.get(waktu_makan, '').strip().lower()
+        baris = menu_df[menu_df[waktu_makan].str.lower() == nama]
+        if not baris.empty:
+            total += float(baris.iloc[0][f'natrium_{waktu_makan}'])
+    return total
+
+def batas_natrium_dari_derajat(derajat):
+    if derajat == 1:
+        return (1000, 1200)
+    elif derajat == 2:
+        return (600, 800)
+    elif derajat == 3:
+        return (200, 400)
+    else:
+        return (0, 200)
+
 def penjelasan_sdt_praktis(min_sdt, max_sdt):
-    rata_rata = (min_sdt + max_sdt) / 2
-    if rata_rata <= 0.2:
-        return "setara 1/10 sendok teh garam (seujung sendok teh)"
-    elif rata_rata <= 0.45:
+    rata2 = (min_sdt + max_sdt) / 2
+    if rata2 <= 0.2:
+        return "setara 1/10 sendok teh garam"
+    elif rata2 <= 0.45:
         return "setara 1/3 sendok teh garam"
-    elif rata_rata <= 0.6:
+    elif rata2 <= 0.6:
         return "setara 1/2 sendok teh garam"
     else:
         return "perkiraan sesuai kebutuhan harian"
 
-
-def rekomendasi_menu(tekanan_darah, preferensi= None, max_k=50, min_hasil=1):
-
-    kategori, (min_natrium, max_natrium) , (min_sdt, max_sdt) = get_kategori_natrium(tekanan_darah)
-    takaran_praktis = penjelasan_sdt_praktis(min_sdt, max_sdt)
-    target_natrium = (min_natrium + max_natrium) / 2
-
-    df_menu = pd.read_csv('kombinasi_menu.csv')
-    X = df_menu[['Total_natrium']].values.reshape(-1, 1)
-
-
-    for k in range(1, max_k + 1):
-        model = NearestNeighbors(n_neighbors = k, metric='euclidean').fit(X)
-        _, indices = model.kneighbors([[target_natrium]])
-        hasil = df_menu.iloc[indices[0]]
-
-    if preferensi:
-        hasil = hasil[
-            hasil.apply(
-                lambda row: any(pref.lower() in row.to_string().lower() for pref in preferensi), axis=1
-            )
-        ]
-        
-        if len(hasil) >= min_hasil:
-            hasil['Selisih'] = abs(hasil['Total_natrium'] - target_natrium)
-            hasil = (
-                hasil
-                .sort_values('Selisih')
-                .drop(columns='Selisih')
-                .assign(Total_natrium=lambda df: df['Total_natrium'].round(2))
-                .reset_index(drop=True)
-            )
-            return hasil
-
-    return pd.DataFrame(columns=df_menu.columns)
-
-       
-
-
 @app.route('/')
 def halaman_awal():
-    session.pop('hasil_rekomendasi', None)  # Hapus hasil rekomendasi dari session
+    session.pop('hasil_rekomendasi', None)
     return render_template('halaman_awal.html')
-
 
 @app.route('/dashboard')
 def dashboard():
@@ -102,81 +72,64 @@ def dashboard():
 
 @app.route('/rekomendasi')
 def rekomendasi():
-    return render_template('rekomendasi.html')
+    kolom_makanan = ['makan_pagi', 'makan_siang', 'makan_malam', 'snack_1', 'snack_2']
+    semua_makanan = set()
+    for kolom in kolom_makanan:
+        semua_makanan.update(menu_df[kolom].dropna().str.strip().str.lower().unique())
+    daftar_makanan = sorted(semua_makanan)
+    return render_template('rekomendasi.html', show_result=False, daftar_makanan=daftar_makanan)
 
-@app.route('/hasil_rekomendasi', methods=['GET', 'POST'])
+@app.route('/hasil_rekomendasi', methods=['POST'])
 def hasil_rekomendasi():
-    if request.method == 'POST':
-        tekanan_darah = request.form.get('tekanan_darah')
-        nama_makanan  = request.form.get('makanan', '')
-        prefs = [x.strip().lower() for x in nama_makanan.split(',')] if nama_makanan else []
+    makanan = {
+        'makan_pagi': request.form.get('makan_pagi'),
+        'makan_siang': request.form.get('makan_siang'),
+        'makan_malam': request.form.get('makan_malam'),
+        'snack_1': request.form.get('snack_1'),
+        'snack_2': request.form.get('snack_2')
+    }
 
-        try:
-            # Hitung kategori & batas
-            kategori, (min_n, max_n), (min_sdt, max_sdt) = get_kategori_natrium(tekanan_darah)
-            takaran_praktis = penjelasan_sdt_praktis(min_sdt, max_sdt)
+    total_natrium = hitung_total_natrium(makanan)
+    fitur_input = np.array([[total_natrium]*5])
+    derajat_makanan = model.predict(fitur_input)[0]
 
-            # Dapatkan DataFrame rekomendasi
-            hasil_df = rekomendasi_menu(tekanan_darah, prefs)
-            records = hasil_df.to_dict(orient='records')
+    tekanan_darah = request.form.get('tekanan_darah')
+    try:
+        sistolik, diastolik = map(int, tekanan_darah.strip().split('/'))
+        derajat_pasien = derajat_dari_tekanan_darah(sistolik, diastolik)
+    except:
+        return "⚠️ Format tekanan darah salah. Gunakan format: 160/100"
 
-            # Simpan ke session supaya tersedia di GET
-            session['hasil_rekomendasi'] = records
-            session['kategori']         = kategori
-            session['batas_natrium']    = (min_n, max_n)
-            session['batas_sdt']        = (min_sdt, max_sdt)
-            session['takaran_praktis']  = takaran_praktis
-            session['tekanan_darah']    = tekanan_darah
+    if derajat_makanan == derajat_pasien:
+        status = "✅ Makanan yang Anda pilih sesuai dengan kondisi tekanan darah Anda."
+    else:
+        status = (
+            f"⚠️ Makanan yang Anda pilih (Derajat {derajat_makanan}) tidak sesuai dengan kondisi tekanan darah Anda (Derajat {derajat_pasien}). "
+            "Berikut rekomendasi makanan yang sesuai untuk Anda:"
+        )
 
-            error = None
-            if not records:
-                error = "Tidak ada menu yang cocok dengan preferensi Anda."
+    batas_min, batas_max = batas_natrium_dari_derajat(derajat_pasien)
+    sdt_min = round(batas_min / 2000, 2)
+    sdt_max = round(batas_max / 2000, 2)
+    takaran = penjelasan_sdt_praktis(sdt_min, sdt_max)
 
-            # Render langsung hasil pertama kali
-            return render_template('hasil_rekomendasi.html',
-                                   hasil=records,
-                                   error=error,
-                                   show_result=True,
-                                   kategori=kategori,
-                                   batas_natrium=f"{min_n} - {max_n} mg",
-                                   batas_sdt=(min_sdt, max_sdt),
-                                   takaran_praktis=takaran_praktis,
-                                   tekanan_darah=tekanan_darah)
-
-        except Exception as e:
-            print(f"Terjadi kesalahan: {e}")
-            # Ikut simpan dummy ke session agar GET tidak error
-            session['hasil_rekomendasi'] = []
-            session['batas_sdt'] = (0, 0)
-            return render_template('hasil_rekomendasi.html',
-                                   hasil=[],
-                                   error="Maaf tekanan darah anda tidak termasuk hipertensi",
-                                   show_result=True,
-                                   kategori=None,
-                                   batas_natrium=None,
-                                   batas_sdt=(0, 0),
-                                   takaran_praktis=None,
-                                   tekanan_darah=None)
-
-    # === GET method: ambil dari session ===
-    records       = session.get('hasil_rekomendasi', [])
-    kategori      = session.get('kategori', None)
-    (min_n, max_n)= session.get('batas_natrium', (0, 0))
-    (min_sdt, max_sdt) = session.get('batas_sdt', (0, 0))
-    takaran_praktis = session.get('takaran_praktis', None)
-    tekanan_darah  = session.get('tekanan_darah', None)
+    # Ambil rekomendasi paling dekat dengan batas bawah (bukan rata-rata)
+    menu_sesuai = menu_df[menu_df['derajat'] == derajat_pasien].copy()
+    menu_sesuai['jarak'] = abs(menu_sesuai['total_natrium'] - batas_min)
+    hasil_df = menu_sesuai.sort_values(by='jarak').head(5)
 
     return render_template('hasil_rekomendasi.html',
-                           hasil=records,
-                           error=None,
-                           show_result=bool(records),
-                           kategori=kategori,
-                           batas_natrium=f"{min_n} - {max_n} mg" if min_n else None,
-                           batas_sdt=(min_sdt, max_sdt),
-                           takaran_praktis=takaran_praktis,
-                           tekanan_darah=tekanan_darah)
+        makanan=makanan,
+        total_natrium=total_natrium,
+        tekanan_darah=tekanan_darah,
+        derajat_pasien=derajat_pasien,
+        derajat_makanan=derajat_makanan,
+        status=status,
+        batas_natrium=f"{batas_min} - {batas_max}",
+        batas_sdt=(sdt_min, sdt_max),
+        takaran_praktis=takaran,
+        hasil=hasil_df.to_dict(orient='records'),
+        show_result=True)
 
-                         
 if __name__ == '__main__':
-    app.run( debug=True)
-  
+    app.run(debug=True)

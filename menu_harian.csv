@@ -1,0 +1,901 @@
+makan_pagi,makan_siang,makan_malam,snack_1,snack_2,total_natrium,derajat
+Ikan tongkol goreng,Mie ayam,Bubur manado,Cilok,Markisa,1014.0,1
+Belut goreng,Sup nasi ayam,Ikan bakar bumbu kecap,Kue apem,Risol bihun ,1024.5,1
+Pepes tahu,Beef burger,Tempe pesmol,Putu mayang,Tahu sumedang,1099.5,1
+Telur ceplok,Spageti,Ayam kecap ,Pisang ,Kue kacang,1094.0,1
+Tumis daun pepaya,Ikan tuna sambal goreng,Opor ayam,Talam ubi,Bolu kukus,1024.3,1
+Tumis kacang panjang tempe,Bakso ayam,Ampela goreng ,Cimol,Semangka,1183.0,1
+Rawon,Ayam masak merah,Sop buntut,Jus wortel tomat,serabi,1047.0,1
+Ikan tongkol goreng,Tempe orek,Semur telur,Jambu biji ,Tahu isi,1142.0,1
+Semur tahu,Tempe orek,Tuna bumbu rica-rica,Jus wortel tomat,Bluberi,1198.0,1
+Semur ayam,Garang asem ayam,Lodeh terong,Rujak pepaya alpukat,Susu kedelai,1014.8,1
+Tumis pakcoy,Tuna bumbu pepes,Saboko gurita,Cimol,Tahu isi,1160.0,1
+Semur tahu,Bakso sapi,Pecel ,Kelengkeng,Lemper,1067.0,1
+Tumis kacang panjang tempe,Ayam rendang,Sop buntut,Es kuwut,Es buah,1143.0,1
+Pecel sayur,Beef teriyaki,Teri kacang balado,Sari buah tropika,Apel fuji,1136.0,1
+Nasi uduk,Ayam saus mentega,Daging sapi panggang,Dadar gulung,Kue kacang,1181.0,1
+Tempe goreng,Ikan patin goreng,Lobstre panggang,Kelengkeng,Kue pancong,1020.0,1
+Kering tempe,Dendeng sapi,Paru sapi goreng,Salak,Nangka,1025.0,1
+Nasi ciprat,Tekwan,Tahu telur,Batagor,Cenil,1112.2,1
+Nasi goreng tuna,Sup ayam,Kerang asap,Kue bugis,Dimsum,1156.7,1
+Nasi liwet,Sate kambing,Ikan belida bakar,Es teler,Bakwan,1199.0,1
+Tahu balado,Ayam penyet,Ikan gurame asam manis,Es kuwut,Es buah,1159.0,1
+Ayam suwir kemangi,Tempe penyet,Sop kambing,Pisang panggang saus kurma,Kue nagasari,1039.5,1
+Dendeng sapi,Ayam rendang,Ayam geprek,Pepaya,Sari apel,1183.0,1
+Nasi uduk,Tumis oncom,Sop buntut,Sari buah tropika,Kue pukis,1041.0,1
+Bubur ketan hitam,Terong bakar,Oseng buncis tempe,Kurma,Cireng isi ayam,1115.0,1
+Telur rebus,Cap cay sayur,Telur asin,Apel,Ronde,1034.0,1
+Telur balado,Ceker mercon,Tempe mendoan,Jus pepaya belimbing,Risol bihun ,1101.1,1
+Gulai pakis,Tumis bayam,Sayur bobor,Cimol,Es buah,1032.0,1
+Tumis kangkung,Bakmi,Teri kacang balado,Salak,Bubur sumsum,1176.0,1
+Sayur pakis,Kari ayam ,Kari daging domba,Klepon,Tahu gejrot,1081.0,1
+Sayur asem,Bakso ikan,Tuna bumbu rica-rica,Putu mayang,Semangka,1023.0,1
+Tumis genjer,Ayam panggang,Perkedel tahu,Jus jambu,Es doger,1138.0,1
+Sayur umbut kelapa,Pempek adaan,Spageti udang,Sup buah tropika,Pempek kapal selam,1152.4,1
+Tempe goreng,Kari ayam ,Ikan bakar bumbu kecap,Salad buah,Puding vanila,1140.5,1
+Tempe panggang,Cumi hitam,Sup bola ayam,Pepaya,Martabak telur,1178.0,1
+Nasi pecel,Sate kambing,Kari daging domba,Salak,Dimsum,1014.0,1
+Nasi goreng ,Sambal teri,Teri balado,Jus nanas,Sale pisang,1050.0,1
+Telur rebus,Ayam lada hitam,Sate bandeng,Salad buah,Bolu kukus,1130.0,1
+Pepes ikan mas,Spageti,Ayam kecap ,Kue tapioka,Tape singkong,1062.6,1
+Nasi goreng spesial,Mie bakso,Sambal udang,Cilok,Nangka,1193.0,1
+Tumis kangkung,Mie bakso,Saboko gurita,Batagor,Tahu gejrot,1096.0,1
+Coto makasar,Kari ayam ,Ayam kalasan,Rujak pepaya alpukat,Martabak telur,1072.1999999999998,1
+Kwetiau goreng,Ikan panggang siram acar,Telur asin,Jus Buah naga,Cempedak,1024.7,1
+Teri basah goreng renyah,Pempek adaan,Sate bandeng,Salad buah,Tape singkong,1082.0,1
+Tumis pare,Ikan patin bakar,Paru sapi goreng,Jus mangga,Takoyaki,1122.0,1
+Tumis buncis,Bakso sapi,Sate bandeng,Es kelapa muda,Buah delima ,1107.0,1
+Tempe bacem,Ayam penyet,Daging sapi panggang,Kue bugis,Dimsum,1069.0,1
+Gado-gado,Kari ayam ,Hati ayam goreng,Apel,Pempek kapal selam,1064.0,1
+Nasi bakar,Ayam penyet,Sup bola ayam,Puding coklat,Nangka,1127.0,1
+Semur ayam,Tumis buncis wortel bintik,Teri balado,Es teler,Es buah,1161.0,1
+Semur ayam,Sate ayam,Mie hokian,Cimol,Pisang,1159.8,1
+Pepes tahu,Ikan patin bakar,Daging sapi panggang,Jus belimbing berembun,Tahu isi,1131.6,1
+Ketoprak ,Ayam bakar,Tumis bandeng,Sari buah tropika,Jus alpukat ,1138.0,1
+Udang panggang,Kepiting panggang,Brengkes patin,Mangga,Yogurt,1116.0,1
+Semur ayam,Sate taichan,Tumis tahu kentang seledri,Jus Buah naga,Mangga kweni,1061.0,1
+Soto daging ,Cumi hitam,Ikan gurame asam manis,Lemang manis isi pisang,Kue pancong,1187.6,1
+Tumis pare,Ayam lada hitam,Sop kaki sapi,Kue bolu,Wajik ,1148.0,1
+Pindang patin,Kari ayam ,Telur asin,Kurma,Duku,1200.0,1
+Soto bandung,Bakso ikan,Gulai ayam,Jus mangga,Dimsum,1031.0,1
+Nasi liwet,Kerang panggang,Ikan gabus asap,Jus belimbing berembun,Bubur sumsum,1133.6,1
+Tahu balado,Sup telur,Rendang,Kue bolu,Tahu gejrot,1200.0,1
+Tumis pare,Ayam cincang buncis,Kalio kikil,Getuk kacang hijau,Kue nagasari,1034.0,1
+Lontong sayur,Ayam rendang,Kalio ayam,Jus mentimun jambu,Kue kacang,1013.5,1
+Gulai pakis,Tekwan,Kerang asap,Rujak jeruk bali,Kacang mete sangrai asin,1014.7,1
+Ayam rica-rica,Cap cay sayur,Lodeh terong,Pir,Lemper,1026.0,1
+Pepes tongkol,Abon sapi,Rendang,Pisang panggang saus kurma,Sari apel,1119.5,1
+Lontong sayur,Sate padang,Ikan gurame asam manis,Salak,Onde-onde,1002.0,1
+Bubur nasi,Kari ayam ,Ikan bakar bumbu kecap,Cilok,Pisang,1071.5,1
+Ayam goreng,Bakso sapi,Ikan gurame asam manis,Jus pepaya kayu manis,Jus wortel ,1183.3,1
+Tumis pakcoy,Sup nasi ayam,Sate bandeng,Pir,Ronde,1109.0,1
+Bubur ketan hitam,Oseng tahu,Kalio ayam,Pir,Tahu gejrot,1184.0,1
+Tempe goreng,Steak daging sapi,Tuna bumbu rica-rica,Mentimun serut,Ronde,1062.1,1
+Nasi goreng udang,Tempe orek,Tumis bandeng,Rujak pepaya alpukat,Semangka,1004.8,1
+Paha ayam panggang,Bihun goreng,Sop kambing,Jus pepaya kayu manis,Duku,1118.3,1
+Udang panggang,Ayam goreng ,Ayam panggang bumbu bacem,Stroberi,Takoyaki,1156.7,1
+Tumis daun pepaya,Abon sapi,Makaroni bumbu merah,Klepon,Susu kedelai,1175.0,1
+Telur rebus,Bakso sapi,Ayam kecap ,Talam nangka,Martabak telur,1196.3,1
+Ayam rica-rica,Tekwan,Perkedel tahu,Rujak buah,Bakwan,1046.0,1
+Pepes tongkol,Karedok,Oseng buncis tempe,Pisang bakar saus manis,Kue beras,1031.5,1
+Nasi uduk,Sup ayam,Opor ayam,Jus melon,Pastel ,1052.0,1
+Telur dadar,Tumis oncom,Ayam kecap ,Pir,Pastel ,1149.0,1
+Telur orak-arik,Kari daging sapi,Ikan gabus asap,Kelengkeng,Sosis solo,1163.0,1
+Ikan kembung balado,Iga bakar,Sop kambing,Talam nangka,Kue pukis,1034.3,1
+Bubur nasi,Ayam saus mentega,Ikan gabus asap,Pir,Pempek ,1064.0,1
+Usus ayam goreng,Tumis oncom,Ikan bandeng goreng,Klepon,Pie susu,1137.0,1
+Gulai pakis,Kepiting panggang,Brengkes patin,Es teler,Sosis solo,1170.0,1
+Ketoprak ,Beef teriyaki,Tahu bumbu merah,Jus pepaya belimbing,Takoyaki,1047.4,1
+Semur tahu,Sayur bunga pepaya,Sambal udang,Jus mentimun jambu,Kue sus,1073.5,1
+Ketoprak ,Sate padang,Urab,Sari buah tropika,Tahu isi,1026.0,1
+Nasi goreng ,Nasi hijau harum,Sop buntut,Anggur ,Cenil,1003.0,1
+Soto ayam,Sup nasi ayam,Sate bandeng,Rambutan,Kue pancong,1031.0,1
+Kwetiau goreng,Tempe orek,Ikan bandeng goreng,Buah naga,Lemper,1111.0,1
+Tumis pakcoy,Pempek adaan,Sop kambing,Rujak buah,Sawo,1172.0,1
+Pepes tahu,Cap cay sayur,Jengkol balado,Jus pepaya kayu manis,Wajik ,1044.3,1
+Semur tahu,Ikan belanak goreng,Opor ayam,Pisang bakar saus manis,Es krim,1039.5,1
+Tumis kangkung,Abon ayam,Pepes tongkol sambal dabu-dabu,Sari buah tropika,Risol bihun ,1029.8,1
+Belut goreng,Ayam cincang buncis,Ikan belida bakar,Sari seledri campur,Bolu pisang,1100.0,1
+Kwetiau goreng,Oseng tahu,Terong goreng,Manggis,Pie susu,1144.0,1
+Dendeng sapi,Ayam goreng ,Lodeh terong,Putu mayang,Sosis solo,1130.0,1
+Pepes tahu,Sate usus,Lodeh terong,Mangga,Markisa,1001.0,1
+Tumis kacang panjang tempe,Ikan patin bakar,Tuna sambal woku,Jambu biji ,Tape singkong,1066.0,1
+Usus ayam goreng,Ikan patin bakar,Orak arik bening soun,Jus Buah naga,Martabak telur,1014.5,1
+Urap megono,Ayam teriyaki,Tumis kapri manis,Anggur ,Pisang,1085.5,1
+Tumis genjer,Gudeg,Pempek kulit,Buah naga,Kue pukis,1021.0,1
+Telur orak-arik,Ikan panggang siram acar,Tahu telur,Susu,Es buah,1036.7,1
+Semur ayam,Kepiting panggang,Tempe kukus cabe hijau,Es kelapa muda,Cempedak,1096.5,1
+Pepes tongkol,Ikan kuah kuning,Lobstre panggang,Dadar gulung,Jus wortel ,1000.0,1
+Semur jengkol,Kerang panggang,Semur daging,Jus apel,Kue nastar,1082.0,1
+Bubur ayam,Sate taichan,Saboko gurita,Es kuwut,Bakwan,1192.0,1
+Nasi goreng spesial,Ayam masak merah,Saboko gurita,Jus mentimun jambu,Kue beras,1196.5,1
+Kacang panjang bumbu kuning,Bakso ayam,Pempek kulit,Kue bugis,Cempedak,1075.5,1
+Nasi bakar,Ikan salmon panggang,Paru sapi goreng,Lemang manis isi pisang,Pempek ,1052.6,1
+Soto banjar,Kepiting panggang,Bandeng presto,Talam ubi,Pempek kapal selam,1121.3,1
+Sayur umbut kelapa,Cumi goreng,Daging sapi panggang,Rambutan,Pie susu,1049.0,1
+Nasi ciprat,Sayur tahu toge,Lobstre panggang,Jus Buah naga,Tahu sumedang,1099.2,1
+Soto banjar,Ikan tuna sambal goreng,Perkedel tahu,Jus stroberi,Martabak manis,1082.0,1
+Sayur bening bayam,Asem-asem kangkung,Oseng buncis tempe,Dadar gulung,Puding vanila,1168.0,1
+Tuna bakar bumbu bali,Sup telur,Lobstre panggang,Jus belimbing berembun,Wajik ,1147.8000000000002,1
+Gulai tunjang,Ayam panggang,Ikan panggang,Jus Buah naga,Kue nagasari,1113.0,1
+Telur ceplok,Nasi hijau harum,Lobstre panggang,Jus wortel tomat,Seblak,1088.0,1
+Kwetiau goreng,Pempek adaan,Pepes teri,Puding coklat,Semangka,1184.0,1
+Telur rebus,Beef burger,Pecel ,Nanas,Dimsum,1170.0,1
+Sayur bening bayam,Cap cay sayur,Sate bandeng,Apel,Kue pancong,1163.0,1
+Tumis pare,Ikan tuna panggang,Ikan panggang,Rambutan,Pempek kapal selam,1078.0,1
+Belut goreng,Ikan patin bakar,Sup kentang,Rujak jeruk bali,Yogurt,1101.7,1
+Telur dadar,Kari daging sapi,Semur telur,Salak,Markisa,1096.0,1
+Soto bandung,Abon ayam,Ikan baung bakar,Jus belimbing berembun,Kacang mete sangrai asin,1021.6,1
+Ayam suwir kemangi,Tuna bumbu pepes,Sate bandeng,Jus stroberi,Markisa,1126.0,1
+Bubur kacang hijau,Ayam saus mentega,Teri kacang balado,Nanas,Kue pukis,1110.0,1
+Nasi goreng ayam,Tuna bumbu kari,Ikan gabus asap,Pepaya,Sawo,1037.0,1
+Pepes tongkol,Ikan tongkol balado,Ayam geprek,Putu mayang,Pastel ,1143.0,1
+Tahu balado,Tekwan,Lobstre panggang,Putu mayang,Nangka,1144.0,1
+Telur rebus,Tumis bayam,Kari daging domba,Buah naga,Dimsum,1194.0,1
+Sayur asem,Bubur sapi,Semur daging,Sari seledri campur,Tahu walik,1165.0,1
+Tumis buncis,Tuna bumbu kari,Sop kaki sapi,Kelengkeng,Es krim,1118.0,1
+Soto ayam,Ceker mercon,Sop kaki sapi,Sari buah tropika,Pempek kapal selam,1051.0,1
+Tumis daun pepaya,Iga bakar,Ikan gurame asam manis,Pepaya,Risol bihun ,1200.0,1
+Bubur kacang hijau,Ikan lele panggang,Kalio ayam,Pisang bakar saus manis,Markisa,1004.5,1
+Semur tahu,Garang asem ayam,Sayur bobor,Buah naga,Martabak manis,1094.0,1
+Gulai pakis,Tempe penyet,Opor ayam,Es kuwut,Pempek kapal selam,1107.0,1
+Kacang panjang bumbu kuning,Ayam saus mentega,Lodeh terong,Puding coklat,Kue nagasari,1025.5,1
+Tumis buncis,Bihun goreng,Bubur manado,Jus mentimun jambu,Risol bihun ,1032.5,1
+Ayam suwir,Bebek bakar,Lobstre panggang,Jus mentimun jambu,Bolu kukus,1110.5,1
+Urap,Bakso sapi,Teri kacang balado,Jus belimbing berembun,Kue bawang,1017.6,1
+Chicken karage,Nasi rames,Tahu siksa,Anggur ,Mangga kweni,1179.8,1
+Nasi liwet,Tumis bayam,Semur telur,Kurma,Sale pisang,1116.0,1
+Telur rebus,Abon sapi,Tempe kukus cabe hijau,Rujak pepaya alpukat,Tahu gejrot,1137.3,1
+Telur rebus,Beef burger,Ikan belida bakar,Kelengkeng,Onde-onde,1084.0,1
+Kwetiau goreng,Spageti,Paru sapi goreng,Lemang manis isi pisang,Jus jeruk,1092.6,1
+Sayur bening bayam,Pempek adaan,Gulai daging sapi,Cilok,Pempek ,1152.0,1
+Udang panggang,Tumis bayam,Pecel ,Jus wortel tomat,Bolu kukus,1185.0,1
+Pepes tahu,Sup nasi ayam,Tuna bumbu rica-rica,Kue apem,Kue bawang,1175.0,1
+Laksa palembang,Tumis oncom,Tumis bandeng,Es kuwut,Martabak manis,1140.0,1
+Perkedel kentang,Ayam penyet,Tuna sambal woku,Jus wortel tomat,Tahu walik,1049.0,1
+Teri basah goreng renyah,Sate ayam,Bubur manado,Jus jambu,Dimsum,1074.0,1
+Telur ceplok air acar kuning,Cumi goreng,Telur asin,Anggur ,Kue kacang,1039.5,1
+Urap megono,Ayam bakar,Ayam geprek,Anggur ,Kue cucur,1014.0,1
+Tumis genjer,Ayam bakar,Semur telur,Sari buah tropika,Cenil,1080.0,1
+Coto makasar,Ayam woku,Nasi goreng sayur,Es kuwut,Dimsum,1015.2,1
+Soto ayam,Ayam panggang,Ayam kecap ,Sari seledri campur,Jus alpukat ,1157.0,1
+Nasi liwet,Spageti,Ikan gurame asam manis,Apel,Pie susu,1140.0,1
+Soto bandung,Sup telur,Sop kambing,Nanas,Kue nagasari,1002.0,1
+Tumis daun pepaya,Spageti,Orak arik bening soun,Susu murni,Dimsum,1009.5,1
+Nasi goreng udang,Rendang,Kalio telur,Anggur ,Buah delima ,1196.0,1
+Tumis buncis,Cumi hitam,Spageti udang,Sari seledri timun,Tahu isi,1117.5,1
+Sayur umbut kelapa,Oseng tahu,Urab,Pisang bakar saus manis,Seblak,1012.5,1
+Pepes ikan mas,Sate padang,Teri kacang balado,Es kuwut,Jus alpukat ,1036.0,1
+Tumis daun pepaya,Tahu bacem,Salmon asap,Kue bugis,Jus jeruk,1128.0,1
+Rawon,Bakso sapi,Semur telur,Es kuwut,Pempek kapal selam,1173.0,1
+Tumis kacang panjang tempe,Sup telur,Bihun goreng,Cilok,Puding vanila,1098.5,1
+Soto betawi ,Kari ayam ,Bihun goreng,Jus wortel tomat,Bakwan,1093.5,1
+Kwetiau goreng,Ayam saus mentega,Makaroni bumbu merah,Pisang bakar saus manis,Sosis solo,1170.5,1
+Udang panggang,Abon ayam,Urab,Durian,Martabak manis,1186.0,1
+Soto daging ,Ceker mercon,Lobstre panggang,Lemang manis isi pisang,Jus alpukat ,1105.6,1
+Soto banjar,Ikan tuna sambal goreng,Lobstre panggang,Sup buah tropika,Pempek ,1165.9,1
+Soto betawi ,Ayam penyet,Lobstre panggang,Jus nanas,Buah delima ,1117.0,1
+Kupat tahu,Sate ayam,Lodeh terong,Jus wortel tomat,Cireng isi ayam,1077.0,1
+Ayam rica-rica,Mie bakso,Udang goreng tepung,Rujak pepaya alpukat,Onde-onde,1011.8,1
+Ayam rica-rica,Ikan salmon panggang,Mie rebus tauge,Pisang ,Kacang mete sangrai asin,1049.3,1
+Ikan mas goreng,Ayam penyet,Perkedel tahu,Es kuwut,Seblak,1106.0,1
+Semur jengkol,Cumi hitam,Ikan belida bakar,Getuk kacang hijau,Cireng isi ayam,1105.0,1
+Kwetiau udang sambal rujak,Ayam cincang buncis,Sate bandeng,Nanas,Lemper,1061.3,1
+Tumis daun pepaya,Ikan belanak goreng,Kalio ayam,Kurma,serabi,1066.0,1
+Ikan tongkol goreng,Tuna bumbu pepes,Ikan panggang,Cimol,Markisa,1098.0,1
+Sayur umbut kelapa,Beef teriyaki,Jengkol balado,Rujak jeruk bali,Onde-onde,1007.7,1
+Kwetiau goreng,Ikan lele panggang,Rendang,Pepaya,Cempedak,1078.0,1
+Pepes tahu,Bakso aci,Sup kentang,Rujak jeruk bali,Kue pukis,1006.7,1
+Nasi goreng ,Ikan mujair goreng,Sup kentang,Es kuwut,Nangka,1104.0,1
+Telur ceplok,Pepes bandeng presto,Salmon asap,Sari seledri timun,Kue kacang,1060.4,1
+Semur tahu,Gudeg,Ayam kalasan,Kurma,Dimsum,1181.4,1
+Perkedel kentang,Sambal teri,Pempek kulit,Anggur ,Martabak manis,1163.0,1
+Pepes tongkol,Tumis bayam,Udang goreng tepung,Pisang panggang saus kurma,Pempek ,1074.5,1
+Nasi goreng ayam,Ikan mujair goreng,Sate bandeng,Kue apem,Es buah,1161.0,1
+Laksa palembang,Chicken katsu,Spageti udang,Es kelapa muda,Kue nagasari,1148.5,1
+Pecel sayur,Spageti,Tumis bandeng,Pepaya,Tahu gejrot,1062.0,1
+Pepes tongkol,Sambal teri,Paru sapi goreng,Cimol,Bolu kukus,1031.0,1
+Sayur asem,Onigiri,Telur asin,Stroberi,Lemper,1117.0,1
+Nasi kebuli,Kari ayam ,Orak arik bening soun,Jus stroberi,Pastel ,1040.5,1
+Semur ayam,Mie ayam,Gadon tahu jamur,Rujak jeruk bali,Pastel ,1002.6,1
+Urap,Dendeng sapi,Ampela goreng ,Manggis,Sosis solo,1037.0,1
+Nasi goreng udang,Ikan patin bakar,Tumis kapri manis,Durian,Cireng isi ayam,1104.5,1
+Pecel sayur,Ikan patin bakar,Ampela goreng ,Klepon,Yogurt,1072.0,1
+Ketoprak ,Ayam penyet,Sandwich ikan tuna panggang,Pepaya,Seblak,1102.2,1
+Tumis genjer,Ayam cincang buncis,Semur telur,Pisang bakar saus manis,Pie susu,1057.5,1
+Sayur pakis,Udang goreng ,Pepes teri,Cimol,Bolu kukus,1188.0,1
+Kacang panjang bumbu kuning,Ikan tuna sambal goreng,Lobstre panggang,Es teler,Sari apel,1157.5,1
+Gulai pakis,Tempe penyet,Telur asin,Kue bugis isi kacang hijau,Bluberi,1085.0,1
+Chicken karage,Telur puyuh bumbu kuning,Ayam kalasan,Salak,Tahu gejrot,1170.5,1
+Tumis kangkung,Oseng tahu,Opor ayam,Rambutan,Yogurt,1038.0,1
+Tumis sawi putih,Sate ayam,Bubur manado,Cimol,Martabak telur,1133.0,1
+Kacang panjang bumbu kuning,Ikan tongkol balado,Ayam kecap ,Rujak jeruk bali,Susu kedelai,1053.2,1
+Tumis labu siam,Ikan patin bakar,Sup bola ayam,Anggur ,Bluberi,1058.0,1
+Nasi kuning,Tahu bacem,Gulai kambing,Rujak pepaya alpukat,Sukun goreng,1116.8,1
+Bubur nasi,Kari ayam ,Bubur manado,Jus pepaya kayu manis,Wajik ,1137.3,1
+Kwetiau udang sambal rujak,Iga bakar,Daging sapi panggang,Susu,Dimsum,1056.3,1
+Tumis buncis,Cumi goreng,Ikan cakalang asap,Puding coklat,Kue cucur,1018.0,1
+Udang panggang,Bebek bakar,Gulai ikan ,Kue apem,Markisa,1002.0,1
+Kwetiau goreng,Tahu cabe garam,Tuna bumbu rica-rica,Rujak jeruk bali,Kue pukis,1045.7,1
+Coto makasar,Sayur tahu toge,Teri balado,Jambu biji ,Kue nastar,1073.0,1
+Kwetiau goreng,Cumi hitam,Gulai ayam,Buah naga,Semangka,1181.0,1
+Semur tahu,Ikan lele panggang,Sayur bobor,Lemang manis isi pisang,Markisa,1045.6,1
+Kwetiau udang sambal rujak,Nasi rames,Sup bola ayam,Batagor,Mangga kweni,1048.3,1
+Gado-gado,Iga bakar,Kalio telur,Jus melon,Martabak telur,1089.0,1
+Paha ayam panggang,Cumi goreng,Ikan baung bakar,Es kuwut,Tahu sumedang,1179.0,1
+Udang panggang,Bakmi,Tumis ikan tongkol,Kue bugis isi kacang hijau,Wajik ,1008.0,1
+Tempe masak wijen,Cumi goreng,Semur daging,Dadar gulung,Kacang mete sangrai asin,1084.2,1
+Urap megono,Mie ayam,Pempek kulit,Kue tapioka,Cireng isi ayam,1130.6,1
+Ketoprak ,Nasi hijau harum,Pempek kulit,Rujak jeruk bali,Kue bawang,1101.7,1
+Soto betawi ,Abon ayam,Ikan panggang,Getuk kacang hijau,Wajik ,1119.0,1
+Pepes tongkol,Ikan patin bakar,Kalio telur,Jus pepaya belimbing,Onde-onde,1111.1,1
+Nasi goreng spesial,Sambal goreng kentang,Tumis bandeng,Getuk kacang hijau,Tape singkong,1157.0,1
+Sayur bening bayam,Pepes bandeng presto,Oseng buncis tempe,Susu murni,Kue nastar,1116.4,1
+Soto ayam,Chicken katsu,Tempe mendoan,Getuk kacang hijau,Kue kacang,1158.0,1
+Ayam suwir kemangi,Ayam goreng ,Tuna bumbu rica-rica,Susu,Es krim,1085.0,1
+Tumis labu siam,Ayam lada hitam,Ayam kecap ,Pisang panggang saus kurma,Kue cucur,1118.5,1
+Soto kudus,Dendeng sapi,Ayam taliwang,Kue tapioka,Es krim,1070.6,1
+Coto makasar,Mie ayam,Semur daging,Durian,Onde-onde,1002.0,1
+Tumis kacang panjang tempe,Bubur sapi,Tempe mendoan,Susu murni,Pempek kapal selam,1109.0,1
+Gulai tunjang,Ayam lada hitam,Udang goreng tepung,Pisang panggang saus kurma,Pempek kapal selam,1153.5,1
+Tumis kacang panjang tempe,Ikan belanak goreng,Pempek kulit,Mentimun serut,Tape singkong,1085.1,1
+Chicken nugget,Bubur sapi,Kerang asap,Putu mayang,Sawo,1125.0,1
+Nasi kebuli,Tekwan,Lobstre panggang,Jus apel,Tahu walik,1133.0,1
+Kwetiau udang sambal rujak,Oseng tahu,Sop kambing,Es teler,Pempek ,1092.3,1
+Telur ceplok,Pempek adaan,Paru sapi goreng,Pisang bakar saus manis,Martabak manis,1198.5,1
+Pecel sayur,Ayam saus mentega,Pepes teri,Jus apel,Pie susu,1146.0,1
+Pecel sayur,Ikan salmon panggang,Mie hokian,Kue bugis,Pie susu,1121.8,1
+Telur rebus,Bubur sapi,Lobstre panggang,Mentimun serut,Markisa,1123.1,1
+Nasi goreng ayam,Steak daging sapi,Sambal udang,Sari seledri timun,Tahu isi,1041.0,1
+Belut goreng,Beef burger,Lumpia basah,Salak,Kue kacang,1036.1,1
+Pepes ayam,Chicken katsu,Tempe kukus cabe hijau,Rujak pepaya alpukat,Bolu kukus,1073.3,1
+Tumis kangkung,Iga bakar,Tumis bandeng,Es teler,Sukun goreng,1127.0,1
+Tumis kacang panjang tempe,Beef teriyaki,Ikan gabus asap,Sari buah tropika,Es buah,1020.0,1
+Ikan kembung balado,Sambal teri,Tuna sambal woku,Sari seledri campur,Martabak manis,1086.0,1
+Telur ceplok air acar kuning,Udang goreng ,Gulai ayam,Susu murni,Tahu walik,1182.5,1
+Sayur pakis,Spageti,Salmon asap,Kue bugis,Kue bawang,1145.0,1
+Nasi uduk,Garang asem ayam,Ayam taliwang,Pisang panggang saus kurma,Bakwan,1017.5,1
+Telur rebus,Sup ayam,Sop kaki sapi,Durian,Kue pukis,1132.0,1
+Ketoprak ,Rendang,Tuna bumbu rica-rica,Jus pepaya belimbing,Yogurt,1002.1,1
+Ikan kembung balado,Sate kambing,Gulai ikan ,Kue tapioka,Martabak manis,1059.6,1
+Bubur ayam,Chicken katsu,Ikan cakalang asap,Salak,Buah delima ,1105.0,1
+Pecel sayur,Mie ayam,Kerang asap,Sari seledri timun,Bolu pisang,1072.0,1
+Ikan bawal goreng,Tempe penyet,Sop buntut,Cimol,Kue kacang,1133.0,1
+Chicken nugget,Cap cay sayur,Sayur rica rodoh,Jeruk,Bakwan,1147.8,1
+Udang panggang,Ayam panggang,Brengkes patin,Jus pepaya kayu manis,Puding vanila,1100.3,1
+Tumis genjer,Gudeg,Sate bandeng,Kue bolu,Cempedak,1142.0,1
+Paha ayam panggang,Bakmi,Opor ayam,Pisang ,Pempek kapal selam,1176.0,1
+Nasi kuning,Karedok,Tumis ikan tongkol,Susu murni,Kue pukis,1152.0,1
+Nasi goreng udang,Ikan tuna panggang,Kangkung bumbu kare,Sup buah serut,Kue nagasari,1025.6,1
+Tuna bakar bumbu bali,Ikan tuna sambal goreng,Lobstre panggang,Stroberi,Es krim,1030.2,1
+Pindang patin,Sate padang,Ikan gurame asam manis,Kue bugis,Markisa,1035.0,1
+Ikan kembung balado,Beef burger,Gulai ayam,Kue bugis isi kacang hijau,Jus alpukat ,1082.0,1
+Ikan kembung balado,Beef teriyaki,Tuna bumbu rica-rica,Jeruk,Sosis solo,1137.0,1
+Pecel sayur,Chicken katsu,Tahu bumbu kukus,Kelengkeng,Kue nastar,1167.9,1
+Usus ayam goreng,Beef burger,Sayur rica rodoh,Cimol,Apel fuji,1176.8,1
+Kwetiau goreng,Asem-asem kangkung,Gulai ikan ,Pisang panggang saus kurma,Kue sus,1050.5,1
+Gulai tunjang,Ayam rendang,Tempe mendoan,Melon,Bolu pisang,1002.0,1
+Pecel sayur,Ikan tongkol balado,Bubur manado,Sari seledri timun,Risol bihun ,1166.0,1
+Soto betawi ,Udang goreng ,Gulai daging sapi,Mentimun serut,Mangga kweni,1134.1,1
+Telur dadar,Ikan lele panggang,Semur daging,Jus jambu,Tahu walik,1003.0,1
+Ayam goreng,Ayam panggang,Ikan cakalang asap,Kue tapioka,Puding vanila,1070.6,1
+Tumis buncis,Tahu cabe garam,Salmon asap,Pir,serabi,1185.0,1
+Coto makasar,Ayam panggang,Tumis bandeng,Jus mentimun jambu,Puding vanila,1127.5,1
+Paha ayam panggang,Ayam bakar,Hati ayam goreng,Melon,Sosis solo,1004.0,1
+Telur balado,Ikan tuna sambal goreng,Urab,Kue bugis isi kacang hijau,Seblak,1003.0,1
+Soto daging ,Kerang panggang,Tumis bandeng,Jeruk,Bakwan,1159.0,1
+Tempe masak wijen,Ayam penyet,Oseng buncis tempe,Jus melon,Es buah,1102.2,1
+Nasi goreng tuna,Tumis pepaya muda,Lobstre panggang,Puding coklat,Kue kacang,1064.7,1
+Tumis genjer,Pempek adaan,Paru sapi goreng,Klepon,Pempek ,1197.0,1
+Soto ayam,Ayam saus mentega,Jengkol balado,Cilok,Bubur sumsum,1148.0,1
+Nasi kebuli,Ikan mujair goreng,Lobstre panggang,Sup buah serut,Sukun goreng,1025.3,1
+Dendeng sapi,Ikan patin goreng,Semur daging,Durian,Pastel ,1036.0,1
+Ketoprak ,Ayam masak merah,Nasi goreng sayur,Kue bugis,Martabak manis,1036.2,1
+Ikan bawal goreng,Dendeng sapi,Perkedel tahu,Durian,Martabak telur,1054.0,1
+Gulai pakis,Tumis oncom,Pecel ,Jus Buah naga,Sup kacang,1007.0,1
+Bubur ayam,Sate usus,Rendang,Kurma,Tahu walik,1083.0,1
+Nasi goreng udang,Oseng tahu,Orak arik bening soun,Pisang bakar saus manis,Es doger,1097.0,1
+Ikan tongkol goreng,Tempe orek,Sop kaki sapi,Salak,Puding vanila,1025.0,1
+Pepes tongkol,Steak daging sapi,Paru sapi goreng,Kue bolu,Semangka,1070.0,1
+Usus ayam goreng,Ikan tuna sambal goreng,Kangkung bumbu kare,Cilok,serabi,1118.3,1
+Ikan kembung balado,Ikan tuna panggang,Tempe pesmol,Kue apem,Bolu pisang,1010.5,1
+Tumis buncis,Bubur sapi,Kangkung bumbu kare,Pisang ,Nangka,616.3,2
+Sayur pakis,Terong bakar,Telur asin,Pir,Bakpia,605.0,2
+Sayur bening bayam,Ayam masak merah,Terong balado,Susu,Sukun goreng,749.0,2
+Tempe masak wijen,Bubur sapi,Tuna sambal woku,Buah naga,Yogurt,736.2,2
+Tumis kacang panjang tempe,Ikan belanak goreng,Pecel ,Cilok,Yogurt,779.0,2
+Belut goreng,Bebek bakar,Pepes tongkol sambal dabu-dabu,Getuk kacang hijau,Es doger,645.8,2
+Sayur pakis,Iga bakar,Ikan gabus asap,Jus pepaya belimbing,Bakwan,764.1,2
+Pepes ayam,Beef teriyaki,Sayur bobor,Jus melon,Markisa,630.0,2
+Nasi bakar,Ayam bakar,Tahu bumbu merah,Jus pepaya kayu manis,Kue bawang,655.5999999999999,2
+Soto banjar,Bakso ayam,Pepes tongkol sambal dabu-dabu,Es kelapa muda,Bakwan,722.8,2
+Tumis labu siam,Sate usus,Tumis tahu kentang seledri,Asinan bengkuang nanas,Nangka,664.6,2
+Semur ayam,Asem-asem kangkung,Lodeh terong,Salad buah,Yogurt,790.0,2
+Nasi liwet,Ikan tongkol balado,Terong goreng,Rujak buah,Buah delima ,714.0,2
+Ikan tongkol goreng,Asem-asem kangkung,Ayam taliwang,Manggis,Bubur sumsum,770.0,2
+Sayur bening bayam,Spageti,Oseng tahu tomat,Sup buah tropika,Pempek kapal selam,657.8,2
+Belut goreng,Sayur tahu toge,Opor ayam,Jus mentimun jambu,Pisang,761.5,2
+Belut goreng,Tempe orek,Mie hokian,Melon,Es buah,607.8,2
+Tumis kacang panjang tempe,Sayur bunga pepaya,Gadon tahu jamur,Talam ubi,Bolu pisang,677.2,2
+Sayur pakis,Ikan panggang siram acar,Udang goreng tepung,Pisang ,Wajik ,657.7,2
+Nasi bakar,Bakso sapi,Gulai kambing,Rujak jeruk bali,Pastel ,790.7,2
+Ketoprak ,Ikan belanak goreng,Tumis tahu kentang seledri,Kue bugis,Nangka,681.0,2
+Tumis kacang panjang tempe,Tuna bumbu pepes,Gulai ayam,Jus mangga,Kue beras,793.0,2
+Tumis pakcoy,Ikan tongkol balado,Tumis ikan tongkol,Pir,Martabak telur,727.0,2
+Telur balado,Asem-asem kangkung,Oseng tahu tomat,Jus mentimun jambu,Kue sus,735.4,2
+Tumis labu siam,Ikan patin bakar,Bihun goreng,Jus jambu,Kue beras,620.5,2
+Tempe panggang,Babat sapi,Sup kentang,Pepaya,Pie susu,690.0,2
+Nasi bakar,Ayam masak merah,Gulai ikan ,Anggur ,Sukun goreng,624.0,2
+Pepes ikan mas,Kerang panggang,Ayam panggang bumbu bacem,Jus pepaya belimbing,Es buah,773.8000000000001,2
+Kupat tahu,Ikan tongkol balado,Brengkes patin,Jus Buah naga,Kue nagasari,776.0,2
+Tempe masak wijen,Ikan patin bakar,Semur daging,Jus Buah naga,Es krim,773.2,2
+Tuna bakar bumbu bali,Mie bakso,Sup kentang,Susu,Pempek ,728.2,2
+Bubur kacang hijau,Cumi goreng,Daging sapi panggang,Jus jambu,serabi,697.0,2
+Pecel sayur,Bening bayam tauge,Bandeng presto,Manggis,Es doger,759.3,2
+Telur dadar,Sambal teri,Sate bandeng,Jus mangga,Mangga kweni,795.0,2
+Kacang panjang bumbu kuning,Tuna bumbu kari,Tempe goreng tepung,Jus wortel tomat,Tahu gejrot,671.5,2
+Kering tempe,Ikan salmon panggang,Sayur bobor,Pisang panggang saus kurma,Ronde,764.5,2
+Bubur nasi,Iga bakar,Bubur manado,Kurma,Mangga kweni,644.0,2
+Ikan mas goreng,Sayur bunga pepaya,Ampela goreng ,Klepon,Pempek kapal selam,733.0,2
+Pepes tongkol,Abon ayam,Orak arik bening soun,Jus melon,Puding vanila,762.5,2
+Soto daging ,Bakso ikan,Tempe goreng tepung,Jus jambu,Es doger,609.0,2
+Soto kudus,Garang asem ayam,Tumis bandeng,Sup buah serut,Apel fuji,732.3,2
+Kacang panjang bumbu kuning,Tumis bayam,Kerang asap,Rujak jeruk bali,Sosis solo,667.2,2
+Sayur pakis,Pepes bandeng presto,Sop kambing,Buah naga,Pempek kapal selam,628.4,2
+Belut goreng,Cumi goreng,Pepes teri,Jus Buah naga,Bluberi,693.0,2
+Urap,Ikan belanak goreng,Tumis ikan tongkol,Durian,Takoyaki,759.0,2
+Tumis pare,Ayam cincang buncis,Paru sapi goreng,Mentimun serut,Kue beras,737.1,2
+Pepes ayam,Ayam penyet,Saboko gurita,Salak,Semangka,640.0,2
+Sayur bening bayam,Bebek bakar,Makaroni bumbu merah,Pisang bakar saus manis,Sup kacang,747.5,2
+Pepes ikan mas,Sup nasi ayam,Pecel ,Susu,Kue pukis,691.0,2
+Soto betawi ,Bakmi,Pepes teri,Jambu biji ,Kue bawang,659.0,2
+Tumis genjer,Ayam rendang,Sayur nangka,Sup buah tropika,Kue nastar,654.9,2
+Sayur pakis,Ikan salmon panggang,Sandwich ikan tuna panggang,Mentimun serut,Es doger,751.3000000000001,2
+Bubur nasi,Ikan tuna panggang,Pecel ,Sup buah tropika,Bolu kukus,774.9,2
+Nasi kebuli,Tumis oncom,Ikan bakar bumbu kecap,Kurma,serabi,626.5,2
+Tumis kol,Tuna bumbu kari,Makaroni bumbu merah,Sari seledri timun,Risol bihun ,758.0,2
+Soto daging ,Nasi rames,Nasi goreng sayur,Jus wortel tomat,Bolu kukus,711.2,2
+Tempe masak wijen,Terong bakar,Ayam taliwang,Mangga,Pempek kapal selam,661.2,2
+Tumis pakcoy,Cumi hitam,Sayur siram bumbu tumis,Lemang manis isi pisang,Yogurt,728.7,2
+Tumis genjer,Terong bakar,Rendang,Es teler,Tahu sumedang,755.0,2
+Bubur nasi,Pepes bandeng presto,Lobstre panggang,Jus melon,Buah delima ,795.4,2
+Tumis pare,Bakmi,Ikan mujair pepes,Pir,Kue nagasari,643.0,2
+Sayur pakis,Iga bakar,Makaroni bumbu merah,Sup buah serut,Kue sus,663.3,2
+Dendeng sapi,Sambal teri,Pepes teri,Buah naga,Sale pisang,723.0,2
+Urap,Sup nasi ayam,Mie rebus tauge,Apel,Tahu walik,774.3,2
+Gulai pakis,Tekwan,Ikan baung bakar,Anggur ,Jus alpukat ,726.0,2
+Tumis kol,Tahu cabe garam,Sop kambing,Salad buah,Kue nagasari,673.0,2
+Tumis daun pepaya,Ayam goreng ,Kangkung bumbu kare,Jeruk,Kue nastar,716.3,2
+Ikan tongkol goreng,Sate ayam,Ayam panggang bumbu bacem,Jeruk,Ronde,633.7,2
+Kacang panjang bumbu kuning,Pepes bandeng presto,Lobstre panggang,Mentimun serut,Jus jeruk,667.0,2
+Bubur kacang hijau,Sup nasi ayam,Ikan bandeng goreng,Kelengkeng,Es buah,622.0,2
+Tahu balado,Asem-asem kangkung,Perkedel tahu,Sari seledri timun,Sosis solo,791.0,2
+Tumis kangkung,Ayam penyet,Nasi goreng kunyit,Lemang manis isi pisang,Jus alpukat ,728.6,2
+Udang panggang,Sayur bunga pepaya,Tempe kukus cabe hijau,Klepon,Buah delima ,691.5,2
+Coto makasar,Ikan kuah kuning,Ikan bakar bumbu kecap,Jus pepaya kayu manis,Risol bihun ,740.8,2
+Coto makasar,Ikan panggang siram acar,Tuna bumbu rica-rica,Kue bugis,Jus semangka,761.7,2
+Kacang panjang bumbu kuning,Kepiting panggang,Urab,Puding coklat,Sosis solo,770.5,2
+Telur ceplok,Sambal teri,Paru sapi goreng,Jus mangga,Sari apel,605.0,2
+Tumis kol,Bakso ayam,Sayur rica rodoh,Stroberi,Lemper,744.8,2
+Bubur kacang hijau,Ikan patin bakar,Orak arik bening soun,Lemang manis isi pisang,Lemper,696.1,2
+Pindang patin,Tempe orek,Ikan baung bakar,Getuk kacang hijau,Puding vanila,621.0,2
+Gulai tunjang,Bubur sapi,Tumis ikan tongkol,Sup buah serut,Pempek ,644.3,2
+Kupat tahu,Sayur tahu toge,Sandwich ikan tuna panggang,Kue tapioka,Yogurt,677.8000000000001,2
+Kering tempe,Nasi rames,Brengkes patin,Stroberi,Puding vanila,665.0,2
+Gulai tunjang,Rendang,Bihun goreng,Pepaya,Tahu isi,764.5,2
+Soto kudus,Bihun goreng,Kerang asap,Pir,Tape singkong,661.0,2
+Tumis pare,Sate taichan,Pecel ,Salad buah,Sari apel,666.0,2
+Tumis labu siam,Cumi hitam,Tempe pesmol,Durian,Wajik ,761.5,2
+Tumis daun pepaya,Ikan patin goreng,Teri balado,Talam nangka,Pisang,701.3,2
+Telur orak-arik,Ayam masak merah,Pepes teri,Klepon,Jus alpukat ,657.0,2
+Nasi pecel,Sayur bunga pepaya,Paru sapi goreng,Jus nanas,Cireng isi ayam,718.0,2
+Ayam suwir,Bakmi,Tuna sambal woku,Es kelapa muda,Cempedak,795.0,2
+Soto bandung,Tempe penyet,Tumis tahu kentang seledri,Jus belimbing berembun,Martabak manis,632.6,2
+Soto banjar,Sup nasi ayam,Rendang,Sup buah tropika,Puding vanila,776.9,2
+Sayur asem,Sup telur,Brengkes patin,Jus nanas,Kue beras,717.0,2
+Urap megono,Sate kambing,Ikan bakar bumbu kecap,Apel,Tahu walik,635.5,2
+Soto betawi ,Ayam lada hitam,Spageti udang,Talam nangka,Kue kacang,647.8,2
+Ikan mas goreng,Cap cay sayur,Daging sapi panggang,Pepaya,Buah delima ,716.0,2
+Kwetiau udang sambal rujak,Sup telur,Daging sapi panggang,Putu mayang,Susu kedelai,777.3,2
+Pepes tahu,Nasi hijau harum,Bubur manado,Talam ubi,Kue beras,607.3,2
+Urap,Bening bayam tauge,Bubur manado,Klepon,Pastel ,744.3,2
+Tumis pakcoy,Bebek bakar,Ikan cakalang asap,Jus stroberi,Bubur sumsum,645.0,2
+Tumis kacang panjang tempe,Bakso aci,Daun singkong bumbu iris,Talam nangka,Wajik ,656.3,2
+Nasi uduk,Pepes bandeng presto,Tuna bumbu rica-rica,Getuk kacang hijau,Tape singkong,644.4,2
+Telur dadar,Tuna bumbu pepes,Sandwich ikan tuna panggang,Jambu biji ,Onde-onde,613.2,2
+Soto betawi ,Steak daging sapi,Ikan bandeng goreng,Stroberi,Jus semangka,784.0,2
+Telur ceplok air acar kuning,Bihun goreng,Hati ayam goreng,Asinan bengkuang nanas,Tahu walik,648.1,2
+Lontong sayur,Beef teriyaki,Nasi goreng kunyit,Jus belimbing berembun,Kue kacang,618.6,2
+Urap megono,Garang asem ayam,Lodeh terong,Apel,Bolu pisang,703.0,2
+Soto banjar,Nasi hijau harum,Tuna sambal woku,Kurma,Tahu walik,700.0,2
+Nasi uduk,Bakso sapi,Ikan bakar bumbu kecap,Lemang manis isi pisang,Kue nastar,713.1,2
+Nasi bakar,Ikan patin bakar,Sayur nangka,Jambu biji ,Lemper,732.0,2
+Tempe bacem,Sup ayam,Kerang asap,Rujak jeruk bali,Cenil,725.7,2
+Ketoprak ,Tekwan,Lumpia basah,Pepaya,Semangka,621.1,2
+Telur rebus,Steak daging sapi,Ikan bakar bumbu kecap,Kurma,Pisang,614.5,2
+Pepes ikan mas,Babat sapi,Sop kambing,Jus belimbing berembun,Bakpia,764.6,2
+Gado-gado,Ikan patin goreng,Semur daging,Kue apem,Ronde,663.0,2
+Pepes tongkol,Nasi rames,Mie rebus tauge,Pepaya,Takoyaki,682.3,2
+Belut goreng,Ikan belanak goreng,Pecel ,Rujak pepaya alpukat,Martabak telur,674.8,2
+Bubur ketan hitam,Tahu cabe garam,Tumis bandeng,Cimol,Martabak telur,756.0,2
+Sayur pakis,Tempe penyet,Kalio telur,Rambutan,Sari apel,795.0,2
+Nasi bakar,Telur puyuh bumbu kuning,Perkedel tahu,Anggur ,Es krim,653.1,2
+Kwetiau udang sambal rujak,Sup telur,Gulai kambing,Sari seledri campur,Kue beras,637.3,2
+Gado-gado,Cumi goreng,Tahu bumbu merah,Talam nangka,Tahu sumedang,666.6,2
+Pecel sayur,Babat sapi,Tempe mendoan,Kue bugis,Duku,709.0,2
+Tumis buncis,Nasi hijau harum,Sayur siram bumbu tumis,Sup buah serut,Kacang mete sangrai asin,696.4000000000001,2
+Nasi pecel,Ayam penyet,Gulai daging sapi,Salak,Bolu pisang,787.0,2
+Gulai pakis,Tumis buncis wortel bintik,Bubur manado,Kue bugis,Sosis solo,762.0,2
+Coto makasar,Onigiri,Kerang asap,Asinan bengkuang nanas,Sale pisang,637.6,2
+Bubur nasi,Sup nasi ayam,Tempe goreng tepung,Nanas,Kue cucur,657.0,2
+Usus ayam goreng,Ikan kuah kuning,Kangkung bumbu kare,Putu mayang,Kue nastar,783.3,2
+Ayam goreng,Bening bayam tauge,Gulai daging sapi,Kue bugis,Bluberi,649.3,2
+Tumis kacang panjang tempe,Garang asem ayam,Urab,Sari buah tropika,Puding vanila,661.0,2
+Teri basah goreng renyah,Sambal teri,Terong goreng,Cimol,Kacang mete sangrai asin,750.0,2
+Rawon,Ikan patin bakar,Orak arik bening soun,Anggur ,Kue kacang,773.5,2
+Lontong sayur,Ikan patin bakar,Orak arik bening soun,Dadar gulung,Bakpia,710.5,2
+Tempe masak wijen,Sate usus,Tempe pesmol,Es teler,Duku,668.7,2
+Ikan tongkol goreng,Sate padang,Ikan baung bakar,Sari seledri timun,Ronde,788.0,2
+Kacang panjang bumbu kuning,Ikan mujair goreng,Sop kambing,Melon,Tahu walik,751.5,2
+Nasi pecel,Sup ayam,Tempe pesmol,Sari seledri campur,Kacang mete sangrai asin,797.5,2
+Ikan bawal goreng,Ayam lada hitam,Daging sapi panggang,Anggur ,Wajik ,664.0,2
+Tumis kol,Ikan kuah kuning,Teri balado,Nanas,Bubur sumsum,754.0,2
+Gulai tunjang,Ikan patin goreng,Tempe mendoan,Dadar gulung,Pempek kapal selam,797.0,2
+Soto kudus,Tekwan,Tempe pesmol,Cilok,Kue kacang,720.5,2
+Ayam goreng,Bubur sapi,Daun singkong bumbu iris,Manggis,Cempedak,686.0,2
+Telur ceplok air acar kuning,Ayam saus mentega,Urab,Jus stroberi,Bubur sumsum,708.5,2
+Soto ayam,Karedok,Bubur manado,Apel,Pempek kapal selam,678.0,2
+Tempe bacem,Dendeng sapi,Bandeng presto,Pir,Kue beras,791.0,2
+Ayam suwir kemangi,Ayam penyet,Nasi goreng sayur,Sari buah tropika,Susu kedelai,675.2,2
+Kering tempe,Spageti,Bubur manado,Jus melon,Yogurt,731.0,2
+Nasi ciprat,Ayam panggang,Terong goreng,Jeruk,Takoyaki,746.2,2
+Telur ceplok air acar kuning,Bakmi,Ikan baung bakar,Manggis,Risol bihun ,787.5,2
+Tumis genjer,Onigiri,Jengkol balado,Jus Buah naga,Yogurt,610.0,2
+Telur ceplok air acar kuning,Spageti,Ikan gabus asap,Apel,Es buah,655.5,2
+Tahu balado,Ayam penyet,Nasi goreng sayur,Rambutan,Wajik ,756.2,2
+Nasi kebuli,Sayur tahu toge,Tumis bandeng,Jus belimbing berembun,Jus wortel ,768.6,2
+Nasi ciprat,Bakso ayam,Bihun goreng,Kue bolu,Semangka,773.7,2
+Gulai tunjang,Sup nasi ayam,Sayur rica rodoh,Talam nangka,Tahu walik,709.0999999999999,2
+Bubur nasi,Ikan salmon panggang,Tumis tahu kentang seledri,Jus belimbing berembun,Sale pisang,663.6,2
+Ketoprak ,Tekwan,Sayur bobor,Kue bugis isi kacang hijau,Sukun goreng,647.0,2
+Nasi goreng ,Tumis oncom,Ayam panggang bumbu bacem,Rambutan,Jus alpukat ,731.7,2
+Nasi ciprat,Sambal teri,Paru sapi goreng,Jus wortel tomat,Kue cucur,650.2,2
+Perkedel kentang,Tumis buncis wortel bintik,Perkedel tahu,Es kuwut,Mangga kweni,695.0,2
+Urap megono,Bening bayam tauge,Sop kambing,Es teler,Wajik ,719.3,2
+Tempe panggang,Bakso sapi,Tempe pesmol,Puding coklat,Tahu gejrot,620.5,2
+Tumis daun pepaya,Ikan tuna sambal goreng,Ayam panggang bumbu bacem,Kelengkeng,Tahu sumedang,795.7,2
+Tempe bacem,Sate kambing,Saboko gurita,Melon,Cempedak,649.0,2
+Telur rebus,Ayam rendang,Kerang asap,Jus nanas,Martabak telur,710.0,2
+Ayam rica-rica,Bening bayam tauge,Teri kacang balado,Mentimun serut,Kue nagasari,792.4,2
+Nasi kebuli,Tahu cabe garam,Ampela goreng ,Kue bugis,Seblak,789.0,2
+Tumis sawi putih,Cumi hitam,Mie rebus tauge,Es kuwut,Bluberi,792.3,2
+Semur jengkol,Sambal goreng kentang,Paru sapi goreng,Manggis,Kue kacang,676.0,2
+Soto ayam,Ayam bakar,Bihun goreng,Jus jambu,Lemper,775.5,2
+Ayam goreng,Oseng tahu,Daun singkong bumbu iris,Pisang bakar saus manis,Kue beras,778.5,2
+Pepes tongkol,Onigiri,Ikan bandeng goreng,Sup buah tropika,Martabak manis,753.9,2
+Tumis kacang panjang tempe,Ikan mujair goreng,Ikan baung bakar,Jus stroberi,Es krim,678.0,2
+Perkedel kentang,Ikan tongkol balado,Sayur siram bumbu tumis,Kue apem,Markisa,698.1,2
+Nasi goreng tuna,Ikan salmon panggang,Makaroni bumbu merah,Salad buah,Bakpia,649.7,2
+Pepes tahu,Bakso ikan,Makaroni bumbu merah,Melon,Kue nagasari,688.0,2
+Pepes ayam,Beef teriyaki,Kari daging domba,Lemang manis isi pisang,Cempedak,745.6,2
+Kupat tahu,Steak daging sapi,Gulai kambing,Pepaya,Semangka,784.0,2
+Nasi goreng ayam,Ayam masak merah,Nasi goreng kunyit,Jus Buah naga,Martabak telur,761.0,2
+Tumis sawi putih,Bakso sapi,Pecel ,Buah naga,Risol bihun ,729.0,2
+Kupat tahu,Bihun goreng,Tahu bumbu kukus,Sari buah tropika,Risol bihun ,794.9,2
+Nasi ciprat,Ayam cincang buncis,Tahu bumbu merah,Kue bolu,Pastel ,644.5,2
+Nasi liwet,Ayam betutu,Tempe kukus cabe hijau,Jus Buah naga,Kue kacang,632.5,2
+Tempe masak wijen,Ikan tongkol balado,Jengkol balado,Susu,Sawo,634.2,2
+Tempe goreng,Ayam rendang,Sayur nangka,Jus apel,Tahu sumedang,754.0,2
+Telur rebus,Dendeng sapi,Kari daging domba,Pir,Bluberi,794.0,2
+Tempe goreng,Sup nasi ayam,Makaroni bumbu merah,Salak,Bakwan,800.0,2
+Tempe bacem,Sate ayam,Lumpia basah,Jus mangga,Martabak telur,600.1,2
+Laksa palembang,Sambal teri,Kerang asap,Kue bugis,serabi,708.0,2
+Telur ceplok,Ikan mujair goreng,Semur daging,Rujak jeruk bali,Kue beras,675.7,2
+Bubur ketan hitam,Tempe penyet,Teri balado,Sari seledri timun,Semangka,764.0,2
+Gado-gado,Cap cay sayur,Tahu siksa,Sari buah tropika,Susu kedelai,602.8,2
+Nasi goreng tuna,Ikan belanak goreng,Ampela goreng ,Dadar gulung,Es buah,605.7,2
+Perkedel kentang,Iga bakar,Sayur rica rodoh,Nanas,Seblak,746.8,2
+Bubur ketan hitam,Ikan panggang siram acar,Paru sapi goreng,Batagor,Tahu gejrot,780.7,2
+Pepes ayam,Sayur bunga pepaya,Terong balado,Anggur ,Kue pukis,600.0,2
+Ayam rica-rica,Tahu cabe garam,Opor ayam,Pisang panggang saus kurma,serabi,604.5,2
+Telur rebus,Sambal teri,Ayam geprek,Pir,Semangka,751.0,2
+Sayur asem,Sayur tahu toge,Ikan bakar bumbu kecap,Nanas,Sawo,676.5,2
+Soto kudus,Sup nasi ayam,Tahu siksa,Putu mayang,Puding vanila,714.8,2
+Pepes tongkol,Mie bakso,Ampela goreng ,Jambu biji ,Es doger,686.0,2
+Telur balado,Bihun goreng,Sayur nangka,Jus stroberi,Bluberi,684.0,2
+Nasi pecel,Spageti,Sop kaki sapi,Susu murni,Apel fuji,716.0,2
+Gulai pakis,Babat sapi,Gulai ayam,Jus melon,Bluberi,644.0,2
+Pepes tahu,Ikan belanak goreng,Tempe pesmol,Pisang bakar saus manis,Lemper,689.0,2
+Soto ayam,Cumi goreng,Sambal udang,Jambu biji ,Bolu kukus,720.0,2
+Tahu balado,Iga bakar,Urab,Talam ubi,Kue nagasari,689.3,2
+Ayam suwir kemangi,Telur puyuh bumbu kuning,Tumis ikan tongkol,Batagor,Seblak,785.1,2
+Lontong sayur,Iga bakar,Tahu siksa,Cilok,Bakwan,731.8,2
+Bubur kacang hijau,Ayam masak merah,Lodeh terong,Jus Buah naga,serabi,629.0,2
+Teri basah goreng renyah,Ayam bakar,Sandwich ikan tuna panggang,Kue bugis isi kacang hijau,Mangga kweni,612.2,2
+Usus ayam goreng,Ayam woku,Daun singkong bumbu iris,Rujak jeruk bali,Bakpia,723.7,2
+Kering tempe,Cap cay sayur,Tempe kukus cabe hijau,Pisang bakar saus manis,Sale pisang,706.0,2
+Belut goreng,Onigiri,Sayur bobor,Jus pepaya belimbing,Pempek kapal selam,711.1,2
+Bubur ketan hitam,Beef burger,Urab,Jus stroberi,Kue pukis,759.0,2
+Kwetiau goreng,Bening bayam tauge,Gulai kambing,Rujak buah,Pisang,745.3,2
+Soto ayam,Bakmi,Gadon tahu jamur,Pisang ,Kacang mete sangrai asin,743.9,2
+Bubur ayam,Bubur sapi,Rendang,Lemang manis isi pisang,Sari apel,754.6,2
+Rawon,Spageti,Paru sapi goreng,Sari seledri timun,Ronde,788.0,2
+Nasi kebuli,Ikan salmon panggang,Sayur rica rodoh,Jeruk,Es doger,761.8,2
+Soto banjar,Garang asem ayam,Sop kaki sapi,Pisang bakar saus manis,Pisang,742.5,2
+Nasi liwet,Bubur sapi,Bihun goreng,Jus mentimun jambu,Tape singkong,650.0,2
+Tumis pakcoy,Ayam penyet,Hati ayam goreng,Jus nanas,Pie susu,772.0,2
+Soto kudus,Ikan panggang siram acar,Udang goreng tepung,Kurma,Markisa,716.7,2
+Tumis daun pepaya,Pepes bandeng presto,Tumis bandeng,Melon,Kue pancong,615.4,2
+Tumis pare,Sayur tahu toge,Pepes tongkol sambal dabu-dabu,Sari seledri timun,Kacang mete sangrai asin,738.8,2
+Telur orak-arik,Bakmi,Daging sapi panggang,Talam ubi,Cenil,796.3,2
+Ketoprak ,Onigiri,Pepes tongkol sambal dabu-dabu,Jus belimbing berembun,Tahu walik,709.4,2
+Nasi kebuli,Rendang,Ayam taliwang,Jus jambu,Kue beras,793.0,2
+Pecel sayur,Iga bakar,Gadon tahu jamur,Rujak pepaya alpukat,Kue kacang,789.6999999999999,2
+Teri basah goreng renyah,Cap cay sayur,Tahu siksa,Apel,Bakwan,620.8,2
+Paha ayam panggang,Tumis oncom,Tahu bumbu kukus,Sup buah tropika,Pisang,725.8,2
+Ayam suwir kemangi,Babat sapi,Lumpia basah,Mentimun serut,Sup kacang,751.2,2
+Tumis pakcoy,Tumis oncom,Kari daging domba,Jus wortel tomat,Kue beras,720.0,2
+Laksa palembang,Bakso ikan,Gulai ayam,Jus pepaya kayu manis,Es krim,727.3,2
+Ayam rica-rica,Mie ayam,Saboko gurita,Kue bugis isi kacang hijau,Kue bawang,792.0,2
+Nasi ciprat,Kari daging sapi,Ikan bandeng goreng,Jus Buah naga,Sukun goreng,785.2,2
+Pepes tahu,Ikan tuna panggang,Tempe kukus cabe hijau,Salak,Kue kacang,783.5,2
+Soto bandung,Cumi hitam,Sambal udang,Manggis,Yogurt,703.0,2
+Ayam goreng,Ikan panggang siram acar,Pepes tongkol sambal dabu-dabu,Kue bolu,Mangga kweni,635.5,2
+Ayam rica-rica,Tumis buncis wortel bintik,Tumis bandeng,Pisang panggang saus kurma,Cenil,618.5,2
+Tumis pare,Sayur bunga pepaya,Tumis bandeng,Jus wortel tomat,Tahu sumedang,744.0,2
+Ayam suwir,Ayam saus mentega,Pepes teri,Jus pepaya kayu manis,Sosis solo,775.3,2
+Perkedel kentang,Tumis oncom,Tumis kapri manis,Getuk kacang hijau,Wajik ,626.5,2
+Nasi goreng tuna,Ikan patin bakar,Kari daging domba,Melon,Onde-onde,719.7,2
+Pecel sayur,Ikan belanak goreng,Sayur nangka,Kue bugis,Kue cucur,746.0,2
+Bubur ayam,Sup nasi ayam,Pepes teri,Jus apel,Markisa,681.0,2
+Telur rebus,Tumis pepaya muda,Sayur nangka,Apel,Sup kacang,632.0,2
+Nasi ciprat,Beef teriyaki,Tahu bumbu merah,Salad buah,Cireng isi ayam,659.5,2
+Tumis kacang panjang tempe,Dendeng sapi,Kangkung bumbu kare,Kue tapioka,Jus alpukat ,789.9,2
+Ayam rica-rica,Iga bakar,Sambal udang,Jus wortel tomat,Bubur sumsum,657.0,2
+Tumis daun pepaya,Tuna bumbu kari,Urab,Durian,Sari apel,630.0,2
+Pepes tongkol,Ikan lele panggang,Brengkes patin,Putu mayang,Kue kacang,738.0,2
+Bubur ayam,Ayam betutu,Sambal udang,Buah naga,serabi,667.0,2
+Teri basah goreng renyah,Cumi hitam,Sayur bobor,Cilok,Mangga kweni,794.0,2
+Urap megono,Ikan patin bakar,Tahu bumbu kukus,Es teler,Risol bihun ,777.9,2
+Sayur pakis,Cumi hitam,Makaroni bumbu merah,Mangga,Kue nagasari,622.0,2
+Nasi goreng ,Ikan patin goreng,Kangkung bumbu kare,Pisang bakar saus manis,Puding vanila,651.8,2
+Telur orak-arik,Ikan tuna sambal goreng,Oseng tahu tomat,Jus mangga,Pie susu,748.9,2
+Pepes tahu,Ikan belanak goreng,Gulai ikan ,Es kuwut,Jus jeruk,733.0,2
+Soto bandung,Spageti,Ikan panggang,Jus mentimun jambu,Pempek ,779.5,2
+Nasi ciprat,Kepiting panggang,Gulai kambing,Nanas,Cenil,743.2,2
+Paha ayam panggang,Bakso ikan,Tempe kukus cabe hijau,Nanas,Kue nastar,791.5,2
+Bubur kacang hijau,Beef burger,Sambal udang,Buah naga,Kue pancong,745.0,2
+Teri basah goreng renyah,Karedok,Opor ayam,Batagor,Es doger,662.0,2
+Tumis pakcoy,Bakso ayam,Sayur rica rodoh,Kue bugis,Susu kedelai,780.8,2
+Tumis sawi putih,Bakso ikan,Orak arik bening soun,Talam ubi,Tahu gejrot,731.8,2
+Ikan mas goreng,Bubur sapi,Kari daging domba,Kelengkeng,Kue pukis,715.0,2
+Nasi pecel,Ikan salmon panggang,Rendang,Jus pepaya belimbing,Mangga kweni,668.1,2
+Tumis kol,Bakso ikan,Ikan gabus asap,Mentimun serut,Kue beras,704.1,2
+Semur jengkol,Sate usus,Tahu bumbu merah,Pisang ,Susu kedelai,626.3,2
+Soto bandung,Bakso sapi,Ikan mujair pepes,Asinan bengkuang nanas,Kue nastar,607.6,2
+Nasi liwet,Pepes bandeng presto,Opor ayam,Kue bugis,Pie susu,698.4,2
+Telur dadar,Bubur sapi,Ayam panggang bumbu bacem,Jambu biji ,Pempek kapal selam,667.7,2
+Usus ayam goreng,Tahu bacem,Pepes tongkol sambal dabu-dabu,Melon,Es doger,646.8,2
+Kwetiau udang sambal rujak,Sate usus,Pepes teri,Jus mangga,Kue bawang,732.3,2
+Sayur umbut kelapa,Asem-asem kangkung,Gulai kambing,Jus nanas,Martabak manis,764.0,2
+Nasi kebuli,Sup ayam,Pepes tongkol sambal dabu-dabu,Getuk kacang hijau,Cenil,700.8,2
+Sayur asem,Garang asem ayam,Tempe pesmol,Buah naga,serabi,623.5,2
+Pepes ikan mas,Tumis bayam,Tumis kapri manis,Jus nanas,Martabak telur,737.5,2
+Ikan tongkol goreng,Sate padang,Tempe kukus cabe hijau,Anggur ,Semangka,601.5,2
+Ikan bawal goreng,Bening bayam tauge,Lobstre panggang,Sari seledri timun,Es buah,772.3,2
+Telur orak-arik,Bakso aci,Ampela goreng ,Mentimun serut,Apel fuji,687.1,2
+Laksa palembang,Ayam cincang buncis,Terong goreng,Klepon,Kue bawang,689.0,2
+Kupat tahu,Ikan lele panggang,Nasi goreng kunyit,Durian,Es krim,686.0,2
+Kwetiau udang sambal rujak,Steak daging sapi,Ikan belida bakar,Susu,Jus jeruk,799.3,2
+Tumis pakcoy,Pepes bandeng presto,Sate bandeng,Manggis,Duku,791.4,2
+Pindang patin,Tuna bumbu pepes,Saboko gurita,Putu mayang,Pastel ,789.0,2
+Tumis genjer,Tekwan,Saboko gurita,Kelengkeng,Semangka,605.0,2
+Urap,Bebek bakar,Rendang,Putu mayang,Jus semangka,688.0,2
+Nasi liwet,Cumi hitam,Sayur rica rodoh,Sari seledri campur,Nangka,723.8,2
+Nasi liwet,Ikan mujair goreng,Tahu bumbu kukus,Salak,Tahu isi,713.9,2
+Rawon,Cap cay sayur,Sayur rica rodoh,Rambutan,Es krim,608.8,2
+Dendeng sapi,Ayam masak merah,Tempe kukus cabe hijau,Getuk kacang hijau,Jus alpukat ,769.5,2
+Ayam goreng,Garang asem ayam,Sambal udang,Asinan bengkuang nanas,Bakpia,759.6,2
+Soto betawi ,Nasi hijau harum,Makaroni bumbu merah,Cilok,Kue nagasari,641.0,2
+Nasi ciprat,Bakso aci,Tuna sambal woku,Manggis,Pie susu,791.2,2
+Sayur pakis,Udang goreng ,Sayur rica rodoh,Pisang ,Apel fuji,712.8,2
+Bubur kacang hijau,Asem-asem kangkung,Jengkol balado,Jus mentimun jambu,Nangka,308.5,3
+Soto bandung,Tahu cabe garam,Nasi goreng kunyit,Pisang panggang saus kurma,Es doger,341.5,3
+Ikan mas goreng,Terong bakar,Tumis kapri manis,Rujak jeruk bali,Cireng isi ayam,362.2,3
+Soto kudus,Tumis buncis wortel bintik,Pepes tongkol sambal dabu-dabu,Kue tapioka,Jus semangka,229.4,3
+Tempe bacem,Karedok,Pepes tongkol sambal dabu-dabu,Jeruk,Jus alpukat ,241.8,3
+Bubur ayam,Asem-asem kangkung,Sayur rica rodoh,Rujak pepaya alpukat,Semangka,293.6,3
+Ikan bawal goreng,Ikan kuah kuning,Lumpia basah,Jus pepaya belimbing,Susu kedelai,349.20000000000005,3
+Soto banjar,Ayam lada hitam,Terong goreng,Anggur ,Bluberi,367.0,3
+Ikan mas goreng,Gudeg,Sambal udang,Jus stroberi,Buah delima ,312.0,3
+Gado-gado,Ayam lada hitam,Tumis tahu kentang seledri,Susu,Pisang,394.0,3
+Kacang panjang bumbu kuning,Ikan patin goreng,Orak arik bening soun,Anggur ,Kue pukis,259.0,3
+Tuna bakar bumbu bali,Mie bakso,Pepes teri,Jus pepaya kayu manis,Jus wortel ,313.5,3
+Nasi ciprat,Nasi rames,Sambal udang,Melon,Kue beras,373.2,3
+Kacang panjang bumbu kuning,Bakso ikan,Gadon tahu jamur,Es kelapa muda,Onde-onde,371.4,3
+Kwetiau udang sambal rujak,Nasi hijau harum,Kangkung bumbu kare,Jus apel,Wajik ,341.6,3
+Soto kudus,Tumis pepaya muda,Tahu bumbu merah,Kurma,Sale pisang,364.3,3
+Sayur pakis,Mie ayam,Tahu siksa,Jus mentimun jambu,Jus wortel ,322.3,3
+Nasi ciprat,Ikan belanak goreng,Pecel ,Pisang ,Pisang,255.2,3
+Gado-gado,Babat sapi,Sayur bobor,Kue bugis isi kacang hijau,Cempedak,268.0,3
+Tempe bacem,Terong bakar,Makaroni bumbu merah,Es teler,Tape singkong,250.0,3
+Nasi goreng tuna,Sambal goreng kentang,Ikan bandeng goreng,Pepaya,Buah delima ,376.7,3
+Soto kudus,Karedok,Brengkes patin,Sari seledri campur,Buah delima ,363.0,3
+Nasi ciprat,Terong bakar,Ayam panggang bumbu bacem,Manggis,Kue sus,384.9,3
+Bubur ketan hitam,Pepes bandeng presto,Tumis ikan tongkol,Mangga,Tahu gejrot,285.4,3
+Gado-gado,Ayam cincang buncis,Sayur siram bumbu tumis,Jambu biji ,Ronde,389.1,3
+Teri basah goreng renyah,Terong bakar,Ampela goreng ,Jus belimbing berembun,Onde-onde,380.6,3
+Ikan kembung balado,Babat sapi,Tempe pesmol,Sari seledri timun,Es buah,393.5,3
+Sayur asem,Ikan panggang siram acar,Pepes tongkol sambal dabu-dabu,Rujak pepaya alpukat,Sukun goreng,379.3,3
+Soto kudus,Asem-asem kangkung,Tahu bumbu merah,Puding coklat,Nangka,340.3,3
+Nasi bakar,Pepes bandeng presto,Tumis ikan tongkol,Es kelapa muda,Kue nastar,338.4,3
+Bubur ketan hitam,Bakso aci,Tahu bumbu merah,Es kelapa muda,Jus jeruk,305.3,3
+Bubur kacang hijau,Nasi hijau harum,Kari daging domba,Jus mangga,Pisang,337.0,3
+Soto bandung,Tumis buncis wortel bintik,Pepes teri,Anggur ,Apel fuji,228.0,3
+Soto daging ,Ikan panggang siram acar,Oseng tahu tomat,Rambutan,Kue nagasari,326.6,3
+Pepes ayam,Ikan kuah kuning,Sayur nangka,Kurma,Mangga kweni,319.0,3
+Bubur ketan hitam,Telur puyuh bumbu kuning,Gadon tahu jamur,Jus mentimun jambu,Martabak telur,306.5,3
+Nasi pecel,Ayam masak merah,Sayur bobor,Sari buah tropika,Tape singkong,363.0,3
+Kacang panjang bumbu kuning,Mie ayam,Sayur siram bumbu tumis,Jus nanas,Susu kedelai,359.6,3
+Teri basah goreng renyah,Ayam lada hitam,Sayur bobor,Sari seledri campur,Bluberi,340.0,3
+Ikan bawal goreng,Ikan patin goreng,Terong goreng,Talam ubi,Jus wortel ,246.3,3
+Tumis daun pepaya,Terong bakar,Tumis kapri manis,Batagor,Cenil,398.5,3
+Tuna bakar bumbu bali,Sayur bunga pepaya,Hati ayam goreng,Sari buah tropika,Martabak telur,342.2,3
+Telur ceplok,Tumis buncis wortel bintik,Orak arik bening soun,Jeruk,Duku,212.5,3
+Nasi uduk,Gudeg,Tumis tahu kentang seledri,Jus melon,Sukun goreng,369.0,3
+Telur rebus,Tahu cabe garam,Gulai ikan ,Pir,Jus wortel ,378.0,3
+Tumis daun pepaya,Telur puyuh bumbu kuning,Ayam kalasan,Mangga,Kue pancong,368.5,3
+Perkedel kentang,Telur puyuh bumbu kuning,Sayur rica rodoh,Rujak jeruk bali,Sale pisang,349.6,3
+Bubur kacang hijau,Ayam lada hitam,Tahu siksa,Sari seledri timun,Kue pukis,396.8,3
+Bubur nasi,Ikan patin goreng,Terong goreng,Kelengkeng,Mangga kweni,251.0,3
+Gado-gado,Ikan kuah kuning,Nasi goreng sayur,Jus stroberi,Yogurt,361.2,3
+Bubur nasi,Babat sapi,Sayur siram bumbu tumis,Susu,Wajik ,389.1,3
+Sayur pakis,Ceker mercon,Tumis ikan tongkol,Pisang bakar saus manis,Sale pisang,394.5,3
+Ikan bawal goreng,Ayam rendang,Daun singkong bumbu iris,Kurma,Jus alpukat ,382.0,3
+Tempe masak wijen,Nasi hijau harum,Pepes tongkol sambal dabu-dabu,Pepaya,Kue cucur,227.0,3
+Tumis labu siam,Spageti,Tahu bumbu merah,Rujak pepaya alpukat,Sari apel,399.1,3
+Kering tempe,Asem-asem kangkung,Pepes tongkol sambal dabu-dabu,Kue tapioka,Ronde,290.40000000000003,3
+Perkedel kentang,Asem-asem kangkung,Tahu bumbu kukus,Buah naga,Martabak telur,392.9,3
+Tuna bakar bumbu bali,Terong bakar,Ikan bandeng goreng,Melon,Sale pisang,313.2,3
+Tumis pare,Pecel lele,Ikan bakar bumbu kecap,Jus Buah naga,Sawo,291.5,3
+Telur dadar,Ayam lada hitam,Tempe pesmol,Jus wortel tomat,Kue beras,349.5,3
+Tumis kol,Nasi hijau harum,Orak arik bening soun,Talam nangka,Jus wortel ,314.8,3
+Ikan mas goreng,Sayur bunga pepaya,Tempe pesmol,Jambu biji ,Es krim,203.5,3
+Nasi pecel,Sambal goreng kentang,Tempe kukus cabe hijau,Asinan bengkuang nanas,Pempek kapal selam,356.1,3
+Nasi ciprat,Tempe orek,Tumis tahu kentang seledri,Es kuwut,Kue beras,308.2,3
+Semur jengkol,Tempe penyet,Sayur rica rodoh,Kue bugis isi kacang hijau,Sukun goreng,313.8,3
+Kacang panjang bumbu kuning,Rendang,Urab,Jus nanas,Bluberi,208.5,3
+Tumis kacang panjang tempe,Ikan panggang siram acar,Pepes teri,Mentimun serut,Bluberi,397.8,3
+Tumis pare,Asem-asem kangkung,Kerang asap,Asinan bengkuang nanas,Buah delima ,325.6,3
+Lontong sayur,Ayam cincang buncis,Sayur bobor,Sari seledri campur,Jus jeruk,385.0,3
+Semur jengkol,Tahu cabe garam,Tempe mendoan,Kelengkeng,Bubur sumsum,388.0,3
+Nasi pecel,Sambal goreng kentang,Tumis tahu kentang seledri,Pepaya,Tahu walik,279.0,3
+Soto bandung,Tumis buncis wortel bintik,Ikan bakar bumbu kecap,Jus stroberi,Buah delima ,261.5,3
+Pindang patin,Sayur bunga pepaya,Ayam panggang bumbu bacem,Es teler,Ronde,367.7,3
+Nasi kebuli,Asem-asem kangkung,Sayur siram bumbu tumis,Kurma,Sukun goreng,216.1,3
+Sayur pakis,Bakso ikan,Sayur nangka,Rambutan,Kue pancong,322.0,3
+Semur jengkol,Tuna bumbu pepes,Urab,Susu murni,Buah delima ,395.0,3
+Telur orak-arik,Tumis pepaya muda,Mie rebus tauge,Getuk kacang hijau,Jus semangka,391.3,3
+Rawon,Tumis pepaya muda,Tempe pesmol,Jus stroberi,Duku,301.5,3
+Laksa palembang,Ikan patin goreng,Gadon tahu jamur,Sari buah tropika,Pisang,326.9,3
+Gado-gado,Tumis pepaya muda,Sayur rica rodoh,Kue apem,Kue beras,362.8,3
+Tuna bakar bumbu bali,Asem-asem kangkung,Nasi goreng sayur,Sari buah tropika,Tahu isi,379.4,3
+Kacang panjang bumbu kuning,Ikan patin goreng,Lodeh terong,Mentimun serut,Es doger,397.6,3
+Perkedel kentang,Telur puyuh bumbu kuning,Bihun goreng,Jus pepaya kayu manis,Kue beras,383.90000000000003,3
+Urap,Bening bayam tauge,Tempe goreng tepung,Jus belimbing berembun,Pempek ,399.90000000000003,3
+Nasi uduk,Bening bayam tauge,Sandwich ikan tuna panggang,Jus Buah naga,Kue beras,379.5,3
+Soto kudus,Ikan kuah kuning,Urab,Pisang bakar saus manis,Pisang,357.5,3
+Teri basah goreng renyah,Ayam woku,Ikan mujair pepes,Jus mangga,Jus semangka,284.0,3
+Bubur kacang hijau,Tahu cabe garam,Ikan cakalang asap,Jus wortel tomat,Kue cucur,396.0,3
+Telur ceplok air acar kuning,Karedok,Pecel ,Kue tapioka,Bakpia,353.1,3
+Ikan bawal goreng,Ikan panggang siram acar,Tahu siksa,Batagor,Jus wortel ,305.5,3
+Tempe bacem,Tumis pepaya muda,Ikan bakar bumbu kecap,Jambu biji ,Mangga kweni,296.5,3
+Semur jengkol,Tumis pepaya muda,Daun singkong bumbu iris,Lemang manis isi pisang,Markisa,219.6,3
+Tumis genjer,Terong bakar,Spageti udang,Jus pepaya belimbing,Onde-onde,397.6,3
+Tuna bakar bumbu bali,Tekwan,Kangkung bumbu kare,Getuk kacang hijau,Bubur sumsum,308.5,3
+Perkedel kentang,Tumis buncis wortel bintik,Oseng tahu tomat,Nanas,Jus alpukat ,254.9,3
+Soto bandung,Sayur bunga pepaya,Bihun goreng,Jeruk,Cempedak,322.5,3
+Tuna bakar bumbu bali,Tuna bumbu pepes,Kangkung bumbu kare,Jus pepaya belimbing,Markisa,363.6,3
+Tumis kacang panjang tempe,Tumis buncis wortel bintik,Urab,Kue bugis isi kacang hijau,Bluberi,342.0,3
+Ikan mas goreng,Rendang,Nasi goreng kunyit,Salak,Ronde,315.0,3
+Gado-gado,Ikan panggang siram acar,Ayam panggang bumbu bacem,Jus mangga,Sale pisang,244.39999999999998,3
+Teri basah goreng renyah,Tahu bacem,Sambal udang,Stroberi,Puding vanila,318.0,3
+Telur ceplok,Ikan mujair goreng,Tumis ikan tongkol,Jeruk,Mangga kweni,311.0,3
+Tempe masak wijen,Rendang,Mie hokian,Rujak buah,Markisa,363.0,3
+Telur ceplok air acar kuning,Onigiri,Mie rebus tauge,Getuk kacang hijau,Es krim,294.8,3
+Tempe panggang,Tekwan,Nasi goreng kunyit,Jus nanas,Kue kacang,393.0,3
+Teri basah goreng renyah,Pepes bandeng presto,Tumis kapri manis,Durian,Tahu sumedang,259.9,3
+Pepes ikan mas,Asem-asem kangkung,Kangkung bumbu kare,Rujak pepaya alpukat,Bluberi,267.1,3
+Tempe panggang,Ikan patin goreng,Daging sapi panggang,Buah naga,Jus alpukat ,329.0,3
+Semur jengkol,Rendang,Tumis kapri manis,Pir,Es krim,266.5,3
+Telur orak-arik,Telur puyuh bumbu kuning,Nasi goreng sayur,Susu murni,Sari apel,379.3,3
+Urap,Pepes bandeng presto,Kangkung bumbu kare,Jus apel,Kue beras,312.7,3
+Bubur kacang hijau,Ikan patin goreng,Ampela goreng ,Jus apel,Jus semangka,366.0,3
+Bubur kacang hijau,Ikan mujair goreng,Tempe kukus cabe hijau,Puding coklat,Jus jeruk,377.5,3
+Kacang panjang bumbu kuning,Gudeg,Urab,Dadar gulung,Buah delima ,238.5,3
+Sayur pakis,Tempe orek,Tempe pesmol,Sup buah tropika,Jus alpukat ,268.4,3
+Rawon,Sayur bunga pepaya,Ayam kalasan,Jus pepaya belimbing,Yogurt,316.5,3
+Tempe panggang,Bening bayam tauge,Sayur rica rodoh,Dadar gulung,Takoyaki,380.1,3
+Lontong sayur,Terong bakar,Pepes teri,Jus jambu,Pastel ,295.0,3
+Soto banjar,Pepes bandeng presto,Brengkes patin,Salad buah,Tahu sumedang,346.4,3
+Tempe panggang,Bakso aci,Oseng tahu tomat,Jus apel,Duku,254.9,3
+Urap megono,Bihun goreng,Ayam panggang bumbu bacem,Kurma,Jus jeruk,379.7,3
+Tuna bakar bumbu bali,Pepes bandeng presto,Brengkes patin,Kurma,Bakwan,248.6,3
+Tumis pare,Rendang,Makaroni bumbu merah,Salad buah,Cenil,362.0,3
+Kwetiau udang sambal rujak,Terong bakar,Bihun goreng,Pisang panggang saus kurma,Pastel ,356.3,3
+Soto ayam,Sayur bunga pepaya,Tahu bumbu merah,Anggur ,Kue nagasari,314.3,3
+Ayam suwir,Rendang,Daun singkong bumbu iris,Jus Buah naga,Kue pancong,308.0,3
+Ayam suwir,Pepes bandeng presto,Mie rebus tauge,Rambutan,Bakwan,291.7,3
+Telur rebus,Terong bakar,Urab,Rujak jeruk bali,Kue nastar,283.7,3
+Lontong sayur,Ayam rendang,Tumis tahu kentang seledri,Talam nangka,Cempedak,354.3,3
+Gado-gado,Mie bakso,Sayur siram bumbu tumis,Stroberi,Es buah,356.1,3
+Kwetiau udang sambal rujak,Telur puyuh bumbu kuning,Sayur siram bumbu tumis,Getuk kacang hijau,Bakpia,315.5,3
+Laksa palembang,Pepes bandeng presto,Mie rebus tauge,Jus mentimun jambu,Buah delima ,301.2,3
+Soto betawi ,Bening bayam tauge,Pecel ,Jus pepaya kayu manis,Markisa,262.6,3
+Telur rebus,Tahu bacem,Ayam kalasan,Sari buah tropika,Kue nagasari,372.4,3
+Semur jengkol,Sayur tahu toge,Pepes teri,Talam nangka,Sukun goreng,389.3,3
+Ayam suwir,Terong bakar,Kerang asap,Jambu biji ,Es buah,248.0,3
+Tumis labu siam,Tahu cabe garam,Tempe pesmol,Kue tapioka,Pie susu,363.1,3
+Ikan mas goreng,Ikan patin goreng,Daun singkong bumbu iris,Es kuwut,Semangka,227.0,3
+Belut goreng,Tahu cabe garam,Tahu bumbu kukus,Pisang bakar saus manis,Pisang,355.4,3
+Sayur pakis,Ikan belanak goreng,Pepes tongkol sambal dabu-dabu,Puding coklat,Tape singkong,383.8,3
+Coto makasar,Telur puyuh bumbu kuning,Ayam kalasan,Kelengkeng,Apel fuji,373.5,3
+Bubur kacang hijau,Ikan mujair goreng,Ayam panggang bumbu bacem,Rujak pepaya alpukat,Buah delima ,283.5,3
+Kwetiau udang sambal rujak,Tahu bacem,Ayam panggang bumbu bacem,Susu murni,Cempedak,233.0,3
+Bubur ketan hitam,Pepes bandeng presto,Pepes tongkol sambal dabu-dabu,Nanas,Kue nagasari,255.2,3
+Telur dadar,Ikan belanak goreng,Sayur nangka,Es kuwut,Semangka,397.0,3
+Nasi ciprat,Ayam woku,Tempe goreng tepung,Jus pepaya belimbing,Es krim,296.3,3
+Nasi kebuli,Nasi hijau harum,Gadon tahu jamur,Sari seledri campur,Sosis solo,362.9,3
+Telur dadar,Ikan belanak goreng,Tahu bumbu merah,Sari seledri campur,Cempedak,348.3,3
+Nasi goreng tuna,Ayam woku,Oseng tahu tomat,Jus stroberi,Bakpia,349.6,3
+Lontong sayur,Sambal teri,Orak arik bening soun,Jus pepaya belimbing,Ronde,316.6,3
+Nasi ciprat,Tahu bacem,Sayur rica rodoh,Es teler,Sosis solo,318.0,3
+Bubur nasi,Tumis buncis wortel bintik,Kangkung bumbu kare,Talam nangka,Markisa,213.60000000000002,3
+Telur ceplok air acar kuning,Ikan panggang siram acar,Saboko gurita,Sari seledri timun,Bluberi,333.2,3
+Bubur kacang hijau,Pecel lele,Ikan bandeng goreng,Jus nanas,Es krim,331.0,3
+Pepes tahu,Ikan panggang siram acar,Tempe pesmol,Jus nanas,Cempedak,309.2,3
+Nasi ciprat,Nasi rames,Mie rebus tauge,Sup buah tropika,Sari apel,350.4,3
+Rawon,Tekwan,Tumis kapri manis,Anggur ,Sawo,372.5,3
+Sayur pakis,Tekwan,Orak arik bening soun,Nanas,Kue beras,286.5,3
+Tuna bakar bumbu bali,Bening bayam tauge,Tempe mendoan,Salad buah,Apel fuji,270.5,3
+Ayam suwir,Pepes bandeng presto,Sandwich ikan tuna panggang,Rujak buah,Markisa,332.6,3
+Telur rebus,Terong bakar,Tempe pesmol,Salak,Susu kedelai,201.5,3
+Lontong sayur,Tahu bacem,Sayur rica rodoh,Pisang bakar saus manis,Bakpia,265.3,3
+Nasi goreng tuna,Ikan belanak goreng,Nasi goreng kunyit,Sari seledri campur,Sawo,327.7,3
+Nasi pecel,Sambal goreng kentang,Sambal udang,Kue apem,Sari apel,298.0,3
+Pepes ikan mas,Sayur bunga pepaya,Orak arik bening soun,Jus apel,Sukun goreng,375.5,3
+Soto kudus,Telur puyuh bumbu kuning,Pecel ,Melon,Kue cucur,398.1,3
+Tumis sawi putih,Pepes bandeng presto,Lumpia basah,Es kuwut,Sukun goreng,347.5,3
+Tempe masak wijen,Garang asem ayam,Tahu siksa,Kue bugis,Sukun goreng,291.0,3
+Gado-gado,Ikan kuah kuning,Ayam kalasan,Jus wortel tomat,Jus jeruk,336.4,3
+Nasi kebuli,Pepes bandeng presto,Pecel ,Kurma,Kue kacang,350.4,3
+Ikan mas goreng,Ayam woku,Makaroni bumbu merah,Stroberi,Nangka,293.0,3
+Soto daging ,Tempe orek,Pecel ,Kue bugis isi kacang hijau,Sukun goreng,394.0,3
+Bubur ayam,Terong bakar,Urab,Salad buah,Sale pisang,324.0,3
+Tempe masak wijen,Ikan panggang siram acar,Gulai ikan ,Anggur ,Ronde,209.9,3
+Soto daging ,Sambal teri,Tempe pesmol,Asinan bengkuang nanas,Sukun goreng,313.1,3
+Tempe bacem,Pecel lele,Tempe goreng tepung,Asinan bengkuang nanas,serabi,294.6,3
+Urap megono,Garang asem ayam,Tempe pesmol,Jus belimbing berembun,Jus alpukat ,266.1,3
+Nasi pecel,Sayur tahu toge,Sayur nangka,Salak,Tape singkong,277.0,3
+Soto kudus,Asem-asem kangkung,Lumpia basah,Jus pepaya belimbing,Sosis solo,331.2,3
+Nasi ciprat,Ikan mujair goreng,Tahu bumbu kukus,Jambu biji ,Kue kacang,365.1,3
+Sayur pakis,Ikan mujair goreng,Pepes tongkol sambal dabu-dabu,Susu murni,Yogurt,281.8,3
+Belut goreng,Terong bakar,Mie rebus tauge,Durian,Kue beras,331.3,3
+Telur ceplok air acar kuning,Tumis pepaya muda,Hati ayam goreng,Talam ubi,Sosis solo,387.8,3
+Ikan mas goreng,Pepes bandeng presto,Ikan bakar bumbu kecap,Rujak buah,Kue beras,285.9,3
+Nasi ciprat,Sate kambing,Tahu bumbu kukus,Jus nanas,Sukun goreng,393.09999999999997,3
+Soto banjar,Mie bakso,Makaroni bumbu merah,Pisang panggang saus kurma,Es krim,323.5,3
+Bubur nasi,Nasi hijau harum,Oseng tahu tomat,Kelengkeng,Kue kacang,348.9,3
+Tumis labu siam,Ikan panggang siram acar,Tahu bumbu merah,Jus wortel tomat,Kue nastar,320.0,3
+Coto makasar,Nasi hijau harum,Mie rebus tauge,Talam ubi,Sukun goreng,395.6,3
+Nasi bakar,Tumis buncis wortel bintik,Daun singkong bumbu iris,Jus pepaya belimbing,Kue pukis,302.1,3
+Gulai tunjang,Pecel lele,Sayur siram bumbu tumis,Asinan bengkuang nanas,Kue pancong,334.70000000000005,3
+Urap megono,Terong bakar,Makaroni bumbu merah,Pir,Tahu sumedang,245.0,3
+Pepes ikan mas,Tumis buncis wortel bintik,Kangkung bumbu kare,Kurma,Bluberi,249.3,3
+Laksa palembang,Sayur bunga pepaya,Tahu bumbu kukus,Jus mentimun jambu,Sukun goreng,354.4,3
+Kacang panjang bumbu kuning,Garang asem ayam,Tumis tahu kentang seledri,Jus belimbing berembun,Sosis solo,313.1,3
+Pepes ikan mas,Bening bayam tauge,Tumis kapri manis,Putu mayang,Jus semangka,264.8,3
+Nasi goreng tuna,Ikan patin goreng,Sayur bobor,Susu murni,Semangka,203.7,3
+Lontong sayur,Ikan belanak goreng,Pepes tongkol sambal dabu-dabu,Getuk kacang hijau,Sukun goreng,331.8,3
+Tahu balado,Ikan panggang siram acar,Orak arik bening soun,Jus pepaya kayu manis,Semangka,390.5,3
+Teri basah goreng renyah,Onigiri,Daging sapi panggang,Anggur ,Apel fuji,400.0,3
+Tempe masak wijen,Tumis buncis wortel bintik,Urab,Salak,Tahu isi,314.2,3
+Tumis genjer,Bening bayam tauge,Ayam kalasan,Rambutan,Es krim,288.7,3
+Kwetiau udang sambal rujak,Sambal teri,Sayur bobor,Asinan bengkuang nanas,Kue bawang,373.90000000000003,3
+Kacang panjang bumbu kuning,Rendang,Ikan bakar bumbu kecap,Sup buah serut,Es buah,348.3,3
+Tumis pare,Telur puyuh bumbu kuning,Tumis tahu kentang seledri,Susu murni,Kue pukis,341.1,3
+Tuna bakar bumbu bali,Tahu cabe garam,Oseng tahu tomat,Pisang ,Lemper,251.10000000000002,3
+Nasi kebuli,Sambal goreng kentang,Sambal udang,Sup buah tropika,Sari apel,392.9,3
+Bubur ketan hitam,Pepes bandeng presto,Saboko gurita,Jus jambu,Susu kedelai,354.4,3
+Ayam suwir,Gudeg,Tahu bumbu kukus,Asinan bengkuang nanas,Jus jeruk,235.5,3
+Soto betawi ,Nasi hijau harum,Pepes tongkol sambal dabu-dabu,Pir,Sukun goreng,301.8,3
+Kering tempe,Nasi hijau harum,Tumis tahu kentang seledri,Jambu biji ,Susu kedelai,362.0,3
+Soto bandung,Tumis buncis wortel bintik,Kangkung bumbu kare,Rujak buah,Apel fuji,257.3,3
+Bubur kacang hijau,Rendang,Kangkung bumbu kare,Nanas,Jus wortel ,289.3,3
+Gado-gado,Ikan panggang siram acar,Ayam kalasan,Susu,Apel fuji,225.1,3
+Nasi pecel,Tempe orek,Spageti udang,Jus stroberi,Semangka,309.5,3
+Soto banjar,Mie bakso,Tahu bumbu merah,Jus apel,Kue pancong,335.3,3
+Ikan bawal goreng,Ikan mujair goreng,Sayur rica rodoh,Jus mentimun jambu,Cenil,314.3,3
+Telur ceplok air acar kuning,Asem-asem kangkung,Brengkes patin,Jeruk,Kue nastar,279.5,3
+Soto bandung,Tahu cabe garam,Tempe pesmol,Es kelapa muda,Kue nastar,305.5,3
+Laksa palembang,Tahu cabe garam,Orak arik bening soun,Jus melon,Sari apel,388.5,3
+Ayam suwir,Gudeg,Pecel ,Salad buah,Tape singkong,244.0,3
+Rawon,Nasi hijau harum,Tahu siksa,Jus jambu,Mangga kweni,263.8,3
+Nasi ciprat,Bening bayam tauge,Sayur nangka,Talam nangka,Seblak,297.8,3
+Soto daging ,Nasi hijau harum,Ikan mujair pepes,Jus Buah naga,Jus jeruk,296.0,3
+Sayur bening bayam,Terong bakar,Tahu bumbu kukus,Jus wortel tomat,Kue nastar,324.9,3
+Soto betawi ,Gudeg,Tumis kapri manis,Rujak jeruk bali,Sawo,363.2,3
+Nasi kebuli,Pepes bandeng presto,Mie hokian,Jus nanas,Mangga kweni,268.2,3
+Telur ceplok air acar kuning,Asem-asem kangkung,Ikan cakalang asap,Rujak jeruk bali,Duku,298.2,3
+Nasi ciprat,Ayam woku,Pepes teri,Jus apel,Duku,264.2,3
+Nasi ciprat,Tempe penyet,Urab,Putu mayang,Es krim,342.2,3
+Telur ceplok,Terong bakar,Gulai ikan ,Susu murni,Susu kedelai,360.0,3
+Lontong sayur,Bening bayam tauge,Sayur rica rodoh,Pisang panggang saus kurma,Kacang mete sangrai asin,397.6,3
+Soto daging ,Terong bakar,Tempe goreng tepung,Es teler,Pisang,386.0,3
+Nasi kebuli,Telur puyuh bumbu kuning,Ikan mujair pepes,Jeruk,Mangga kweni,301.1,3
+Semur jengkol,Bakso aci,Mie rebus tauge,Mentimun serut,Pisang,316.40000000000003,3
+Kacang panjang bumbu kuning,Telur puyuh bumbu kuning,Lodeh terong,Es kelapa muda,Sawo,299.6,3
+Kacang panjang bumbu kuning,Bening bayam tauge,Gulai kambing,Salak,Tahu walik,334.8,3
+Soto betawi ,Pecel lele,Ayam kalasan,Jus jambu,Kue beras,281.4,3
+Ikan kembung balado,Pepes bandeng presto,Tahu bumbu merah,Kurma,Susu kedelai,359.7,3
+Lontong sayur,Ikan patin goreng,Gadon tahu jamur,Apel,Bakpia,262.9,3
+Telur ceplok air acar kuning,Tahu cabe garam,Tempe goreng tepung,Talam ubi,Jus jeruk,206.8,3
+Laksa palembang,Bening bayam tauge,Makaroni bumbu merah,Klepon,Sukun goreng,351.3,3
+Tempe goreng,Tahu cabe garam,Gadon tahu jamur,Pisang panggang saus kurma,Jus jeruk,347.4,3
+Soto banjar,Bening bayam tauge,Orak arik bening soun,Melon,Bakwan,363.8,3
+Tuna bakar bumbu bali,Nasi hijau harum,Ikan belida bakar,Manggis,Jus semangka,398.2,3
+Telur rebus,Bening bayam tauge,Terong goreng,Pir,Kue kacang,353.3,3
+Semur jengkol,Ayam betutu,Tahu siksa,Susu,Duku,363.8,3
+Telur ceplok,Ikan patin goreng,Opor ayam,Anggur ,Bluberi,377.0,3
+Soto daging ,Gudeg,Tumis kapri manis,Jus jambu,Jus alpukat ,320.5,3
+Soto ayam,Spageti,Brengkes patin,Talam ubi,Mangga kweni,373.3,3
+Nasi ciprat,Sayur bunga pepaya,Terong balado,Jus Buah naga,Markisa,397.2,3
+Soto banjar,Ikan kuah kuning,Pepes tongkol sambal dabu-dabu,Stroberi,Mangga kweni,273.8,3
+Telur dadar,Pepes bandeng presto,Ikan cakalang asap,Putu mayang,Sari apel,356.4,3
+Soto banjar,Tumis buncis wortel bintik,Tempe goreng tepung,Jus Buah naga,Tahu sumedang,387.0,3
+Rawon,Babat sapi,Tumis kapri manis,Salak,Tape singkong,249.5,3
+Kacang panjang bumbu kuning,Ayam lada hitam,Tempe kukus cabe hijau,Sup buah tropika,Yogurt,293.9,3
+Soto ayam,Ikan kuah kuning,Makaroni bumbu merah,Kelengkeng,Cenil,297.0,3
+Nasi pecel,Terong bakar,Tumis ikan tongkol,Lemang manis isi pisang,Lemper,217.6,3
+Tempe masak wijen,Babat sapi,Kerang asap,Kue bugis isi kacang hijau,Bluberi,241.2,3
+Nasi ciprat,Babat sapi,Lumpia basah,Nanas,Takoyaki,386.3,3
+Nasi ciprat,Tempe orek,Tempe pesmol,Mentimun serut,Kue kacang,367.79999999999995,3
+Ayam suwir,Tumis pepaya muda,Pepes tongkol sambal dabu-dabu,Kue bugis isi kacang hijau,Kue cucur,336.8,3
+Soto banjar,Ayam betutu,Tahu siksa,Apel,Es krim,364.8,3
+Kwetiau udang sambal rujak,Bakso ikan,Urab,Es kelapa muda,Jus semangka,367.3,3
+Tumis pakcoy,Ikan patin goreng,Terong goreng,Pisang bakar saus manis,Nangka,357.5,3
+Kacang panjang bumbu kuning,Sayur tahu toge,Tempe pesmol,Mentimun serut,Jus jeruk,276.1,3
+Tumis kol,Tumis pepaya muda,Hati ayam goreng,Jus wortel tomat,Jus wortel ,379.0,3
+Tuna bakar bumbu bali,Sambal teri,Daging sapi panggang,Buah naga,Pisang,389.2,3
+Semur jengkol,Ikan panggang siram acar,Hati ayam goreng,Pisang ,Es doger,305.7,3
+Nasi liwet,Terong bakar,Ikan mujair pepes,Es kuwut,Jus wortel ,391.0,3
+Bubur ketan hitam,Ikan panggang siram acar,Brengkes patin,Salak,Pempek kapal selam,371.7,3
+Bubur ketan hitam,Spageti,Tempe pesmol,Durian,Es krim,334.5,3
+Bubur ketan hitam,Telur puyuh bumbu kuning,Lumpia basah,Putu mayang,Kue pancong,301.2,3
+Ikan bawal goreng,Tahu bacem,Tempe kukus cabe hijau,Jus Buah naga,Pastel ,328.5,3
+Tuna bakar bumbu bali,Nasi rames,Terong goreng,Jus jambu,Jus wortel ,377.2,3
+Gado-gado,Gudeg,Tempe pesmol,Manggis,Nangka,286.5,3
+Nasi ciprat,Beef teriyaki,Tahu siksa,Pir,Apel fuji,400.0,3
+Rawon,Terong bakar,Tumis tahu kentang seledri,Jus mentimun jambu,Tahu sumedang,377.5,3
+Nasi ciprat,Ikan kuah kuning,Tumis ikan tongkol,Susu murni,Es doger,355.2,3
+Telur ceplok air acar kuning,Tumis buncis wortel bintik,Sayur bobor,Talam ubi,Onde-onde,255.8,3
+Tempe masak wijen,Nasi hijau harum,Sayur bobor,Jeruk,Martabak telur,279.2,3
+Tumis sawi putih,Tahu cabe garam,Gadon tahu jamur,Kue tapioka,Buah delima ,277.5,3
+Tahu balado,Tahu cabe garam,Lumpia basah,Talam nangka,Es buah,372.40000000000003,3
+Kwetiau udang sambal rujak,Telur puyuh bumbu kuning,Terong goreng,Melon,Wajik ,382.4,3
+Telur ceplok,Ikan kuah kuning,Tempe pesmol,Sup buah serut,Es krim,312.8,3
+Ikan bawal goreng,Tumis pepaya muda,Tahu siksa,Putu mayang,Yogurt,299.8,3
+Pepes ikan mas,Babat sapi,Tahu bumbu merah,Jus mangga,Kue beras,275.3,3
+Tuna bakar bumbu bali,Tahu bacem,Hati ayam goreng,Susu,Pie susu,391.2,3
+Nasi bakar,Ikan panggang siram acar,Urab,Nanas,Jus jeruk,211.7,3
+Ikan mas goreng,Tahu bacem,Lumpia basah,Klepon,Kue pancong,328.1,3
+Tempe masak wijen,Pecel lele,Gadon tahu jamur,Talam nangka,Pastel ,235.39999999999998,3
+Tempe panggang,Babat sapi,Jengkol balado,Jus nanas,Kue beras,335.0,3
+Lontong sayur,Terong bakar,Tahu bumbu merah,Putu mayang,Bakpia,248.3,3
+Soto bandung,Nasi hijau harum,Sambal udang,Rambutan,Cempedak,299.0,3
+Bubur ketan hitam,Onigiri,Kangkung bumbu kare,Rujak pepaya alpukat,Es doger,384.1,3
+Tempe panggang,Bakso aci,Nasi goreng kunyit,Sup buah serut,Sosis solo,394.3,3
+Bubur nasi,Pecel lele,Tempe kukus cabe hijau,Jeruk,Kue nagasari,313.5,3
+Urap,Pecel lele,Ayam panggang bumbu bacem,Kue bugis isi kacang hijau,Susu kedelai,388.7,3
+Telur dadar,Tumis oncom,Tumis kapri manis,Kue tapioka,Bluberi,367.1,3
+Tempe masak wijen,Ayam betutu,Urab,Pepaya,Jus wortel ,299.2,3

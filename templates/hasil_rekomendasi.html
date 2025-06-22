@@ -17,18 +17,24 @@
                   <div class="alert alert-danger">{{error}}</div> 
                 {% endif %}
                   {% if show_result %}
-                  <div style="margin-bottom: 30px;" >
-                    <h7 class="mb-1">Kategori Tekanan Darah: {{ kategori }}</h7>
-                    <p class="mb-0">Batas Konsumsi Natrium: {{ batas_natrium }} mg/hari</p>
-                    <p class="mb-0">Perkiraan dalam sendok teh: {{ batas_sdt[0] }} - {{ batas_sdt[1] }} sendok teh</p>
-                    <p><strong>Perkiraan praktis:</strong> {{ takaran_praktis }}</p>
-                  </div>
+                  <div class="alert {% if derajat_makanan != derajat_pasien %}{% else %}{% endif %} p-3 mb-3">
+                  {% if 'Berikut' in status %}
+                    <p class="mb-1"><strong>{{ status.split('Berikut')[0] }}</strong></p>
+                    <p class="mb-2">Berikut{{ status.split('Berikut')[1] }}</p>
+                  {% else %}
+                    <p class="mb-1"><strong>{{ status }}</strong></p>
+                  {% endif %}
+                  <ul class="mb-0" style="list-style: none; padding-left: 0;">
+                    <li><strong>🩺 Derajat Hipertensi:</strong> {{ derajat_pasien }}</li>
+                    <li><strong>🧂 Batas Natrium:</strong> {{ batas_natrium }} mg/hari</li>
+                    <li><strong>🍽️ Takaran:</strong> {{ batas_sdt[0] }} - {{ batas_sdt[1] }} sdt ({{ takaran_praktis }})</li>
+                  </ul>
+                </div>
                     {% if hasil %}
                       <div class="table-responsive" style="min-width: 100%;">
                           <table class="table table-primary table-striped" >
                             <thead class="table-hover">
                               <tr>
-                                <th>Id Kombinasi</th> 
                                 <th>Makan Pagi</th>
                                 <th>Makan Siang</th>
                                 <th>Makan Malam</th>
@@ -40,13 +46,12 @@
                             <tbody>
                               {% for item in hasil %}
                                 <tr>
-                                  <td>{{ item['Id_kombinasi'] }}</td>
-                                  <td>{{ item['Makan_pagi'] }}</td>
-                                  <td>{{ item['Makan_siang'] }}</td>
-                                  <td>{{ item['Makan_malam'] }}</td>
-                                  <td>{{ item['Snack_1'] }}</td>
-                                  <td>{{ item['Snack_2'] }}</td>
-                                  <td>{{ item['Total_natrium'] | round(2) }}</td>
+                                  <td>{{ item['makan_pagi'] }}</td>
+                                  <td>{{ item['makan_siang'] }}</td>
+                                  <td>{{ item['makan_malam'] }}</td>
+                                  <td>{{ item['snack_1'] }}</td>
+                                  <td>{{ item['snack_2'] }}</td>
+                                  <td>{{ item['total_natrium'] | round(2) }}</td>
                                 </tr>
                               {% endfor %}
                             </tbody>
